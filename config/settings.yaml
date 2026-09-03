@@ -1,0 +1,115 @@
+# ---------------------------------------------------------------------------
+# Sharp Trademarks — Instagram Autopilot
+# Business configuration. NO SECRETS IN THIS FILE.
+# Every value here can also be overridden by an environment variable of the
+# same name in UPPER_SNAKE_CASE (see app/utils/config.py), so GitHub Actions
+# can flip behaviour without a code change.
+# ---------------------------------------------------------------------------
+
+brand:
+  name: "Sharp Trademarks"
+  handle: "@sharptrademarks"
+  website: "sharptrademarks.com"
+  email: "info@sharptrademarks.com"
+  phone: "+1 (903) 248-5831"
+  location: "Fredericksburg, Virginia"
+  # See section "legal_positioning" in brand_style_bible.json.
+  # hybrid       = filing service, attorney-supported, never "we are your attorney"
+  # law_firm     = attorney-led claims permitted
+  # strict       = no legal-status framing at all
+  legal_positioning: "hybrid"
+
+schedule:
+  timezone: "America/New_York"      # audience timezone, not the operator's
+  posts_per_day: 2
+  post_interval_hours: 12
+  post_times: ["09:00", "21:00"]    # authoritative if set; else derived from interval
+  # Planning runs early so a failure still leaves hours of repair time.
+  plan_time: "05:30"
+  # Skip publishing on these dates (YYYY-MM-DD) — e.g. US federal holidays.
+  blackout_dates: []
+
+publishing:
+  auto_publish: false               # MUST stay false until a full dry run passes
+  dry_run: true
+  max_generation_attempts: 3
+  # Hard ceiling below Instagram's 100/24h so a bug can never spam the feed.
+  max_posts_per_24h: 4
+  # Refuse to publish if the last successful publish was under this many minutes ago.
+  min_minutes_between_posts: 240
+
+content:
+  # Share of posts per pillar over a rolling 30-day window. Must sum to 1.0.
+  pillar_mix:
+    trademark_education: 0.22
+    costly_mistakes: 0.16
+    myths_vs_facts: 0.12
+    search_and_clearance: 0.10
+    naming_and_branding: 0.10
+    uspto_process: 0.10
+    monitoring_and_enforcement: 0.08
+    faq_and_objections: 0.07
+    trust_and_service: 0.05
+  format_mix:
+    single_image: 0.45
+    carousel: 0.55
+  carousel:
+    min_slides: 5
+    max_slides: 8
+  # A pillar cannot be used again within this many posts.
+  pillar_cooldown_posts: 4
+  # A visual template cannot be reused within this many posts.
+  template_cooldown_posts: 5
+  # A topic cannot be revisited within this many days.
+  topic_cooldown_days: 45
+  hashtags:
+    enabled: true
+    min: 8
+    max: 14
+    # Never let the same hashtag block appear twice in a row.
+    rotate: true
+
+similarity:
+  # Cosine/Jaccard thresholds above which new content is rejected as duplicate.
+  topic_threshold: 0.72
+  caption_threshold: 0.68
+  hook_threshold: 0.75
+  # Perceptual hash Hamming distance below which two images count as duplicates.
+  image_phash_max_distance: 12
+
+image:
+  width: 1080
+  height: 1350                      # 4:5 — maximum feed real estate
+  carousel_width: 1080
+  carousel_height: 1350
+  format: "JPEG"                    # Instagram accepts JPEG only
+  quality: 92
+  max_bytes: 8000000                # 8MB Instagram ceiling
+
+gemini:
+  model: "gemini-3.1-flash-image"
+  fallback_model: "gemini-2.5-flash-image"
+  image_size: "2K"
+  aspect_ratio: "4:5"
+  timeout_seconds: 120
+  max_retries: 4
+
+media_host:
+  # github_raw | s3 | local
+  provider: "github_raw"
+  github:
+    # Public repo that serves generated JPEGs to Instagram's fetcher.
+    repo: "REPLACE_ME/sharp-trademarks-instagram-autopilot"
+    branch: "main"
+    path: "assets/generated"
+
+analytics:
+  collect_after_hours: [24, 72, 168]
+  # Do not let the strategist change the plan on fewer than this many posts.
+  min_posts_for_insight: 12
+  lookback_days: 30
+
+logging:
+  level: "INFO"
+  json: true
+  file: "data/logs/autopilot.log"

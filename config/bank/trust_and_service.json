@@ -1,0 +1,187 @@
+{
+ "pillar": "trust_and_service",
+ "items": [
+  {
+   "id": "trs_three_step",
+   "topic": "How the Sharp Trademarks filing process works",
+   "objective": "trust",
+   "hook": "Three steps. No guesswork about what happens next.",
+   "visual_concept": "Three ascending matte planes in deep navy, each catching progressively more teal light",
+   "key_points": [
+    "Gathering information about your mark and your business",
+    "A comprehensive search before anything is filed",
+    "Application filing with the USPTO"
+   ],
+   "stages": [
+    {
+     "label": "Gathering information",
+     "detail": "Your mark, your goods and services, how you use it"
+    },
+    {
+     "label": "Comprehensive search",
+     "detail": "Conflicts assessed before anything is filed"
+    },
+    {
+     "label": "Filing with the USPTO",
+     "detail": "The application prepared and submitted"
+    }
+   ],
+   "template_plan": [
+    "VS01_statement",
+    "VS10_timeline",
+    "VS05_checklist",
+    "VS09_cta_close"
+   ],
+   "caption_body": "Most of the anxiety around trademarks comes from not knowing what is going to happen.\n\nOur process is three steps and we tell you where you are in it.\n\nFirst we gather the information that actually matters: the exact mark, what you sell, how and where you use it.\n\nThen we search — properly, before anything is filed, because that is the step that decides whether filing is worth doing.\n\nThen the application is prepared and filed with the USPTO.\n\nAfter that we keep you informed as it moves. No surprises in the post.",
+   "cta": "Start at sharptrademarks.com."
+  },
+  {
+   "id": "trs_prefiling_review",
+   "topic": "What a pre-filing risk review covers",
+   "objective": "trust",
+   "hook": "The most valuable work happens before anything is submitted.",
+   "visual_concept": "A magnifier form abstracted into matte geometry over a fine grid, single key light",
+   "key_points": [
+    "Assessing conflicts beyond exact matches",
+    "Checking whether the mark is registrable as a matter of type",
+    "Reviewing the goods and services description",
+    "Flagging risks clearly so you can decide"
+   ],
+   "template_plan": [
+    "VS01_statement",
+    "VS05_checklist",
+    "VS02_split",
+    "VS09_cta_close"
+   ],
+   "caption_body": "A pre-filing review is not a formality. It is where the outcome is mostly decided.\n\nIt looks at conflicts beyond exact matches — sound-alikes, look-alikes, related categories, pending applications. It asks whether the mark is the kind of thing that can be registered at all, or whether it sits too far toward the descriptive end.\n\nIt reviews how the goods and services are described, because that boundary determines what the registration is worth.\n\nAnd it tells you plainly where the risk sits, so the decision to file is yours and informed.",
+   "cta": "Ask us what a review covers — DM open."
+  },
+  {
+   "id": "trs_office_action_help",
+   "topic": "How we handle an Office Action",
+   "objective": "trust",
+   "hook": "An Office Action does not have to be your problem to decode.",
+   "visual_concept": "A sealed matte envelope opening to reveal ordered structure inside, cool light",
+   "key_points": [
+    "We read the Office Action and explain what it is actually asking",
+    "We identify whether it is procedural or substantive",
+    "We prepare and file the response within the deadline",
+    "You know what is happening at each stage"
+   ],
+   "template_plan": [
+    "VS01_statement",
+    "VS03_numbered_steps",
+    "VS08_question_answer",
+    "VS09_cta_close"
+   ],
+   "caption_body": "Office Actions are written in a register that is precise and, if you are not in it every day, alienating.\n\nWhat we do is straightforward. We read it and tell you in ordinary language what is being asked. We identify whether it is procedural — a description to tighten, a specimen to replace — or substantive, which needs an argument.\n\nThen we prepare and file the response inside the deadline, and tell you what to expect next.\n\nThe thing that turns a fixable Office Action into an abandoned application is delay. That is the part we take off your desk.",
+   "cta": "Received an Office Action? DM us."
+  },
+  {
+   "id": "trs_what_to_have_ready",
+   "topic": "What to have ready before you start a filing",
+   "objective": "trust",
+   "hook": "Five things make the whole process faster. Have them ready.",
+   "visual_concept": "Five precisely arranged matte objects on a cool grey plane, ordered light to dark",
+   "key_points": [
+    "The exact mark, spelled and styled as you will use it",
+    "A clear description of the goods or services",
+    "Evidence of use, or a genuine intention to use",
+    "The correct legal owner",
+    "The date you first used the mark in commerce"
+   ],
+   "template_plan": [
+    "VS01_statement",
+    "VS05_checklist",
+    "VS03_numbered_steps",
+    "VS09_cta_close"
+   ],
+   "caption_body": "Filings slow down for the same handful of reasons every time. Have these ready and most of them disappear.\n\nThe exact mark, spelled and presented the way you will actually use it. A clear description of what you sell. Evidence that the mark is in use — real packaging, real listings, real point of sale — or a genuine intention to use it if you have not launched.\n\nThe correct legal owner, which is usually the company rather than you personally.\n\nAnd the date you first used it in commerce, as accurately as you can establish.\n\nThat list is most of the work.",
+   "cta": "Save this before you start."
+  },
+  {
+   "id": "trs_no_guarantees",
+   "topic": "Why nobody can promise a registration",
+   "objective": "trust",
+   "hook": "Anyone promising you a registration is telling you something they cannot know.",
+   "visual_concept": "An open hand form abstracted into matte planes, nothing held, single soft key light",
+   "key_points": [
+    "Registration decisions rest with the USPTO, not with any filing service",
+    "Third parties can oppose a published mark",
+    "What a service controls is preparation quality and responsiveness",
+    "Clear expectations are worth more than confident promises"
+   ],
+   "template_plan": [
+    "VS01_statement",
+    "VS04_myth_fact",
+    "VS02_split",
+    "VS09_cta_close"
+   ],
+   "caption_body": "We will not promise you a registration, and you should be wary of anyone who does.\n\nThe decision sits with the USPTO. An examining attorney applies the rules to your application. Third parties get a window to oppose. Neither of those is in anyone's gift, whatever the marketing says.\n\nWhat can be controlled is the quality of what goes in: the search that happens before filing, the way the goods and services are described, the specimen chosen, and how quickly an Office Action gets answered.\n\nThat is the work. The rest is the process, and honesty about it is part of the service.",
+   "cta": "Follow @sharptrademarks for straight answers."
+  },
+  {
+   "id": "trs_who_we_help",
+   "topic": "The businesses we work with most",
+   "objective": "trust",
+   "hook": "Most people who come to us are at one of four moments.",
+   "visual_concept": "Four matte forms of differing shape sharing a single lit base plane",
+   "key_points": [
+    "Founders who have just settled on a name",
+    "Businesses about to launch or rebrand",
+    "Sellers who found someone using their name",
+    "Owners who received an Office Action and need it explained"
+   ],
+   "template_plan": [
+    "VS01_statement",
+    "VS05_checklist",
+    "VS02_split",
+    "VS09_cta_close"
+   ],
+   "caption_body": "Trademark work tends to arrive at specific moments rather than on a schedule.\n\nSomeone has just settled on a name and wants to know if it is safe to build on. A business is weeks from launch or midway through a rebrand and the name is about to go on everything. A seller has found their brand on someone else's listing. An owner has an Office Action open on the desk and cannot tell how serious it is.\n\nDifferent problems, same underlying question: what do I actually own, and what should I do next.\n\nIf you are at one of those moments, that is the conversation.",
+   "cta": "At one of those moments? DM us."
+  },
+  {
+   "id": "trs_experience",
+   "topic": "What 500 filings teaches you about applications",
+   "objective": "trust",
+   "hook": "After 500 applications, the same four problems keep appearing.",
+   "visual_concept": "A dense archive of uniform matte files receding into cool shadow",
+   "key_points": [
+    "Conflicts missed by exact-match-only searching",
+    "Descriptions written too narrowly or too broadly",
+    "Specimens that show mockups rather than real use",
+    "Ownership recorded incorrectly at filing"
+   ],
+   "template_plan": [
+    "VS07_quote_stat",
+    "VS05_checklist",
+    "VS02_split",
+    "VS09_cta_close"
+   ],
+   "caption_body": "Across 500+ trademark applications filed, the problems repeat.\n\nA search that only looked for the exact spelling. A description of goods and services written so narrowly it barely protects anything, or so broadly it could not be supported. A specimen that showed a beautiful mockup instead of a real product in real commerce. An application filed in the founder's name when the company was the actual owner.\n\nFour recurring problems, and every one of them is decided before the application is submitted.\n\nWhich is why the work that matters is front-loaded.",
+   "cta": "Start at sharptrademarks.com."
+  },
+  {
+   "id": "trs_plain_english",
+   "topic": "Why we explain things in plain language",
+   "objective": "trust",
+   "hook": "If you cannot explain what you are filing, you cannot check it.",
+   "visual_concept": "A complex tangled form resolving into clean parallel lines across the frame",
+   "key_points": [
+    "Understanding your own application is part of protecting the brand",
+    "Plain explanations make errors visible before filing",
+    "You should know what each choice covers and excludes",
+    "Clarity is a service standard, not a nicety"
+   ],
+   "template_plan": [
+    "VS01_statement",
+    "VS02_split",
+    "VS08_question_answer",
+    "VS09_cta_close"
+   ],
+   "caption_body": "There is a version of this service where you hand over a name, money changes hands, and something arrives months later that you never really understood.\n\nWe do not think that protects anyone.\n\nThe description of goods and services defines what your registration is worth. The class decides where it applies. The specimen decides whether it survives examination. You should understand each of those well enough to check them, because you know your business better than anyone reviewing it.\n\nPlain language is not a style choice here. It is how mistakes get caught before they are filed.",
+   "cta": "Questions about your mark? DM us."
+  }
+ ]
+}

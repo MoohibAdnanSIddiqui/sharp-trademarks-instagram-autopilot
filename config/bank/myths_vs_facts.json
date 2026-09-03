@@ -1,0 +1,189 @@
+{
+ "pillar": "myths_vs_facts",
+ "items": [
+  {
+   "id": "myth_llc",
+   "topic": "Whether forming an LLC protects your business name",
+   "objective": "myth_bust",
+   "hook": "Your LLC does not protect your business name.",
+   "visual_concept": "A shallow matte shield form casting a shadow much smaller than itself",
+   "key_points": [
+    "An LLC creates a legal entity and limits liability",
+    "Name checks at formation cover that state's entity register only",
+    "It gives no exclusive right to use the name commercially",
+    "Federal trademark registration is a separate layer"
+   ],
+   "myth": "Forming an LLC means the name is legally mine.",
+   "fact": "An LLC registers a company with one state. It says nothing about who may use the name in the market.",
+   "template_plan": [
+    "VS04_myth_fact",
+    "VS02_split",
+    "VS05_checklist",
+    "VS09_cta_close"
+   ],
+   "caption_body": "This is the single most expensive misunderstanding we see.\n\nAn LLC does an important job. It creates a legal entity and separates your personal assets from the business. When you form one, the state checks the name against other entities registered in that same state.\n\nThat is the entire scope of the check.\n\nIt does not look at the federal register. It does not consider what businesses in other states are doing. And it gives you no exclusive right to use the name commercially.\n\nTwo separate protections. Only one of them is about the brand.",
+   "cta": "Send this to the founder who just formed an LLC."
+  },
+  {
+   "id": "myth_copyright_logo",
+   "topic": "Whether copyright covers your brand name and logo",
+   "objective": "myth_bust",
+   "hook": "Copyright does not protect your brand name. It never has.",
+   "visual_concept": "Two distinct planes of light at different depths, never intersecting",
+   "key_points": [
+    "Copyright protects original creative works fixed in a tangible form",
+    "Names, short phrases and titles are generally outside copyright",
+    "A logo's artwork may carry copyright; the name it spells does not",
+    "Trademark is the right that governs brand identity"
+   ],
+   "myth": "My logo is copyrighted, so my brand name is covered.",
+   "fact": "Copyright can cover the artwork in a logo. It does not cover the name, and it does not stop a competitor using it.",
+   "template_plan": [
+    "VS04_myth_fact",
+    "VS06_comparison",
+    "VS08_question_answer",
+    "VS09_cta_close"
+   ],
+   "caption_body": "These two rights get used interchangeably and they do completely different jobs.\n\nCopyright protects original creative expression — the writing, the photograph, the music, the illustration. Names, short phrases and titles generally fall outside it.\n\nSo the artwork in your logo may carry copyright. The name that logo spells out does not.\n\nWhich means a competitor could use your brand name in plain text, in their own typeface, and copyright would have nothing to say about it.\n\nTrademark is the right that governs identity in the marketplace. That is the one you need for the name.",
+   "cta": "Save this if you have ever used those two words interchangeably."
+  },
+  {
+   "id": "myth_nobody_using",
+   "topic": "Whether an unused name is free to take",
+   "objective": "myth_bust",
+   "hook": "Nobody is using it is not the same as nobody owns it.",
+   "visual_concept": "A dark plane with faint structures becoming visible only in raking light",
+   "key_points": [
+    "A Google search does not show the federal trademark register",
+    "Businesses can hold common-law rights through use without any filing",
+    "Applications pending but not yet registered still affect what you can clear",
+    "Absence of evidence in a quick search is not evidence of absence"
+   ],
+   "myth": "I searched online and nothing came up, so the name is available.",
+   "fact": "Unregistered businesses can hold rights simply by using a name first, and pending applications may not surface in a casual search.",
+   "template_plan": [
+    "VS04_myth_fact",
+    "VS05_checklist",
+    "VS03_numbered_steps",
+    "VS09_cta_close"
+   ],
+   "caption_body": "You searched the name. Nothing obvious came back. It feels clear.\n\nA general web search shows you what is well-optimised and currently online. It does not show you the federal trademark register. It does not show you pending applications working their way through examination. And it certainly does not show you the small business three states away that has been using the name in commerce for six years without ever filing anything.\n\nAny of those can affect whether you get to keep the name.\n\nA clearance review looks at the places a casual search cannot reach.",
+   "cta": "Comment SEARCH and we'll send you the checklist."
+  },
+  {
+   "id": "myth_instant",
+   "topic": "How long trademark registration actually takes",
+   "objective": "myth_bust",
+   "hook": "Filing takes an afternoon. Registration does not.",
+   "visual_concept": "A long shallow ramp rendered in matte navy receding toward a distant teal marker",
+   "key_points": [
+    "Filing is a single step; examination is a queue",
+    "Applications are reviewed by an examining attorney, not approved automatically",
+    "Office Actions and publication periods add time",
+    "No filing service controls USPTO timelines"
+   ],
+   "myth": "I can get a trademark registered in a few days.",
+   "fact": "Filing can happen quickly. Examination, publication and registration follow the USPTO's own timeline, which no service controls.",
+   "template_plan": [
+    "VS04_myth_fact",
+    "VS10_timeline",
+    "VS08_question_answer",
+    "VS09_cta_close"
+   ],
+   "caption_body": "Anyone promising you a registered trademark in days is selling you the first step and calling it the last one.\n\nSubmitting an application is fast. What follows is not in anyone's gift. The application enters a queue. An examining attorney reviews it. If something needs addressing, an Office Action is issued and you respond. If it clears, it publishes, and others get a window to object.\n\nOnly then does registration issue.\n\nA good filing service makes that path as clean as possible and keeps you moving through it. It does not shorten the queue, and you should be wary of anyone claiming otherwise.",
+   "cta": "Save this so you know what to expect."
+  },
+  {
+   "id": "myth_registered_symbol",
+   "topic": "Whether you can use the registered symbol straight away",
+   "objective": "myth_bust",
+   "hook": "Adding that symbol before you are registered is not a shortcut.",
+   "visual_concept": "A closed circular form beside an open incomplete arc, both matte, single key light",
+   "key_points": [
+    "The registered symbol signals a completed federal registration",
+    "Using it before registration can be treated as a misrepresentation",
+    "It can create problems for the very application you are pursuing",
+    "TM is available immediately and carries no such risk"
+   ],
+   "myth": "I filed, so I can start using the registered symbol.",
+   "fact": "That symbol is for marks that have actually registered. Until then, TM is the correct choice and carries no such risk.",
+   "template_plan": [
+    "VS04_myth_fact",
+    "VS06_comparison",
+    "VS02_split",
+    "VS09_cta_close"
+   ],
+   "caption_body": "Filing an application does not entitle you to the registered symbol. Registration does.\n\nThat symbol makes a specific claim: this mark has completed federal registration. Using it before that is true can be treated as a misrepresentation, and it can rebound on the application you are trying to get through.\n\nIt is a small detail that carries risk you do not need to take.\n\nTM, by contrast, you can use today. No filing required. It signals that you are claiming the mark, and nobody has to approve it. That is the safe choice until registration issues.",
+   "cta": "Save this before you update your packaging."
+  },
+  {
+   "id": "myth_worldwide",
+   "topic": "Whether a US trademark protects you worldwide",
+   "objective": "myth_bust",
+   "hook": "A US registration stops at the US border.",
+   "visual_concept": "A luminous boundary line across a dark topographic surface, one side lit, one side dark",
+   "key_points": [
+    "Trademark rights are territorial",
+    "A US registration generally covers the United States",
+    "Selling internationally can require protection in those territories",
+    "International routes exist but are separate decisions"
+   ],
+   "myth": "I registered in the US, so I am protected everywhere I sell.",
+   "fact": "Trademark rights are territorial. A US registration generally protects you in the US, not in every market you ship to.",
+   "template_plan": [
+    "VS04_myth_fact",
+    "VS02_split",
+    "VS08_question_answer",
+    "VS09_cta_close"
+   ],
+   "caption_body": "Trademark rights are territorial. That single word does a lot of work.\n\nA US federal registration generally gives you rights in the United States. It does not automatically give you anything in Canada, the UK, the EU or anywhere else — no matter how much you ship there.\n\nFor a lot of businesses that is fine. Sell domestically, protect domestically.\n\nBut if a meaningful share of your revenue comes from another market, or you are planning to expand into one, that market is its own conversation. There are routes for filing internationally, and they are worth understanding before someone files your name there first.",
+   "cta": "Selling outside the US? DM us."
+  },
+  {
+   "id": "myth_similar_enough",
+   "topic": "Whether changing a letter avoids a conflict",
+   "objective": "myth_bust",
+   "hook": "Changing one letter does not make it a different mark.",
+   "visual_concept": "Two nearly identical wave forms overlapping, the interference pattern lit in teal",
+   "key_points": [
+    "Likelihood of confusion looks at sound, appearance and meaning together",
+    "Deliberate misspellings that sound the same are still similar",
+    "Adding a generic word rarely creates enough distance",
+    "The relatedness of the goods and services matters as much as the words"
+   ],
+   "myth": "I spelled it differently, so it is a different trademark.",
+   "fact": "Confusion is judged on overall impression — how marks sound, look and are understood. A creative spelling that sounds identical is still similar.",
+   "template_plan": [
+    "VS04_myth_fact",
+    "VS05_checklist",
+    "VS06_comparison",
+    "VS09_cta_close"
+   ],
+   "caption_body": "Dropping a vowel. Swapping an s for a z. Adding an extra letter for the domain.\n\nNone of it resets the analysis.\n\nThe test is whether ordinary buyers, encountering both marks in the marketplace, would be likely to think they came from the same source. That looks at how the marks sound, how they look, what they mean, and how related the goods and services are.\n\nA name that sounds identical when spoken aloud is a similar mark, however it is spelled.\n\nCreative spelling is a branding decision. It is not a clearance strategy.",
+   "cta": "Save this before you shortlist a name."
+  },
+  {
+   "id": "myth_first_to_file",
+   "topic": "Whether filing first automatically wins",
+   "objective": "myth_bust",
+   "hook": "Filing first helps. It does not settle everything.",
+   "visual_concept": "Two staggered vertical markers on a dark plane, the taller one behind the nearer one",
+   "key_points": [
+    "US rights are built substantially on use, not only on filing",
+    "An earlier user may have rights that predate someone else's application",
+    "Filing first still matters a great deal for priority and evidence",
+    "The safest position is early use combined with early filing"
+   ],
+   "myth": "Whoever files first automatically owns the trademark.",
+   "fact": "In the US, prior use carries real weight. Filing first strengthens your position — it does not erase someone else's earlier use.",
+   "template_plan": [
+    "VS04_myth_fact",
+    "VS02_split",
+    "VS10_timeline",
+    "VS09_cta_close"
+   ],
+   "caption_body": "Some countries run on a pure first-to-file system. The US does not work that way.\n\nHere, use in commerce carries real weight. A business that has been using a mark before someone else's application may have rights that predate that application, even without a registration.\n\nThat cuts both ways. It means filing first is not an automatic win. It also means that if you have been quietly using a name for years, you are not necessarily out of options when someone newer files.\n\nThe strongest position is the boring one: use it early, and file early too.",
+   "cta": "Follow @sharptrademarks for plain-English brand protection."
+  }
+ ]
+}

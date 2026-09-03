@@ -1,0 +1,44 @@
+name: Refresh access token
+
+# Meta long-lived tokens last about 60 days. Refreshing weekly means the token
+# is never close to expiry, and a few consecutive failures still leave weeks of
+# runway to notice and intervene.
+on:
+  schedule:
+    - cron: "0 6 * * 0"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: ./.github/actions/setup
+      - name: Refresh
+        env:
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          META_APP_ID: ${{ secrets.META_APP_ID }}
+          META_APP_SECRET: ${{ secrets.META_APP_SECRET }}
+          IG_API_HOST: ${{ vars.IG_API_HOST || 'graph.facebook.com' }}
+          CI: "true"
+        run: python run.py refresh-token
+
+      # Writing the new token back requires a fine-grained PAT with
+      # "Secrets: read and write" on this repository, stored as GH_PAT.
+      # Without it the step is skipped and you rotate IG_ACCESS_TOKEN by hand.
+      - name: Store the new token as a repository secret
+        if: env.GH_PAT != ''
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+        run: |
+          gh secret set IG_ACCESS_TOKEN --repo "${{ github.repository }}" < data/.new_token
+          echo "IG_ACCESS_TOKEN updated"
+
+      - name: Shred the token file
+        if: always()
+        run: rm -f data/.new_token

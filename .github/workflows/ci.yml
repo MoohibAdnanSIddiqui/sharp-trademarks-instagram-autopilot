@@ -1,0 +1,39 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+    paths-ignore: ["assets/generated/**", "data/**"]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: ./.github/actions/setup
+      - name: Lint
+        run: ruff check app run.py scripts tests
+      - name: Tests
+        env:
+          DRY_RUN: "true"
+          AUTO_PUBLISH: "false"
+          MEDIA_HOST_PROVIDER: "local"
+        run: pytest -q --cov=app --cov-report=term-missing
+      - name: Full dry run
+        env:
+          DRY_RUN: "true"
+          AUTO_PUBLISH: "false"
+          MEDIA_HOST_PROVIDER: "local"
+        run: |
+          python run.py doctor
+          python run.py plan --date 2030-01-01
+          python run.py generate --date 2030-01-01
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: dry-run-output
+          path: assets/generated/2030-01-01/
+          retention-days: 7

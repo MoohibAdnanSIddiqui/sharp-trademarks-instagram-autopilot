@@ -1,0 +1,13 @@
+name: Setup
+description: Python and the dependencies the renderer and API clients need.
+runs:
+  using: composite
+  steps:
+    - uses: actions/setup-python@v5
+      with:
+        python-version: "3.12"
+        cache: pip
+    - shell: bash
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt

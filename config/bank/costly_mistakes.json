@@ -1,0 +1,173 @@
+{
+ "pillar": "costly_mistakes",
+ "items": [
+  {
+   "id": "mis_file_before_search",
+   "topic": "Filing before running a proper search",
+   "objective": "prevent_mistake",
+   "hook": "The filing fee is not the costly part. The refusal is.",
+   "visual_concept": "A single sharp fracture line running through an otherwise flat matte navy plane",
+   "key_points": [
+    "Government filing fees are generally not refunded when an application is refused",
+    "A conflicting mark already on the register is a common reason applications fail",
+    "Searching after filing means paying to discover what you could have known first",
+    "A clearance review looks at more than exact spellings"
+   ],
+   "template_plan": [
+    "VS01_statement",
+    "VS03_numbered_steps",
+    "VS05_checklist",
+    "VS09_cta_close"
+   ],
+   "caption_body": "Most people think of a trademark application as a form. Fill it in, pay, wait.\n\nThe part that decides the outcome happens before any of that.\n\nIf a confusingly similar mark is already registered for related goods, the application can be refused — and the government filing fee generally does not come back. You have paid to find out something a search would have shown you.\n\nSearching first is not an upsell. It is the step that determines whether the rest of the process is worth starting.",
+   "cta": "Comment SEARCH and we'll send you the clearance checklist."
+  },
+  {
+   "id": "mis_wrong_owner",
+   "topic": "Filing in the wrong owner's name",
+   "objective": "prevent_mistake",
+   "hook": "Filing under the wrong name can undermine the whole application.",
+   "visual_concept": "Two nearly identical geometric forms, one fractionally misaligned against a fine grid",
+   "key_points": [
+    "The applicant must be the party that actually owns and controls the mark",
+    "Founders sometimes file personally when the company is the real owner, or the reverse",
+    "Ownership errors can be difficult and expensive to correct later",
+    "Get the entity right before filing, not after"
+   ],
+   "template_plan": [
+    "VS01_statement",
+    "VS08_question_answer",
+    "VS05_checklist",
+    "VS09_cta_close"
+   ],
+   "caption_body": "It looks like an administrative detail. It is not.\n\nThe applicant on a trademark application has to be the party that genuinely owns the mark and controls how it is used. If the company sells under the brand, the company is usually the owner — not the founder personally.\n\nGet it wrong and you are not just correcting a typo. Ownership defects can be serious, and fixing them after the fact is far harder than getting it right at the start.\n\nBefore you file, be clear about which entity actually owns the brand.",
+   "cta": "Not sure which entity should file? DM us."
+  },
+  {
+   "id": "mis_bad_specimen",
+   "topic": "Submitting a specimen that does not show real use",
+   "objective": "prevent_mistake",
+   "hook": "A beautiful mockup is one of the most common reasons an application stalls.",
+   "visual_concept": "Macro of printed card stock with an embossed edge, shallow depth of field, cool grey light",
+   "key_points": [
+    "A specimen must show the mark as customers actually encounter it",
+    "Digital mockups, renders and design files are generally not acceptable",
+    "For goods, the mark usually needs to appear on the product, packaging or point of sale",
+    "For services, it needs to appear where the service is advertised or sold"
+   ],
+   "template_plan": [
+    "VS01_statement",
+    "VS06_comparison",
+    "VS05_checklist",
+    "VS09_cta_close"
+   ],
+   "caption_body": "You built a gorgeous mockup of the packaging. It is not going to work.\n\nA specimen is evidence. It has to show the mark doing its job in the real world — on the product a customer receives, on the packaging, at the point of sale, or on the page where the service is actually sold.\n\nA render is a picture of a plan. A design file is a picture of an intention. Neither shows use.\n\nIf you are not selling yet, that is fine — there is a different route for marks you intend to use. But do not try to bridge the gap with a mockup.",
+   "cta": "Save this before you submit anything."
+  },
+  {
+   "id": "mis_narrow_description",
+   "topic": "Describing your goods and services badly",
+   "objective": "prevent_mistake",
+   "hook": "Three lines of text decide how much your registration is actually worth.",
+   "visual_concept": "A narrow beam of teal light widening across a dark plane, edges precise",
+   "key_points": [
+    "The description defines the boundary of what your registration covers",
+    "Too narrow and competitors operate freely just outside the line",
+    "Too broad and you invite refusals or challenges you cannot support",
+    "The description generally cannot be expanded after filing"
+   ],
+   "template_plan": [
+    "VS01_statement",
+    "VS02_split",
+    "VS05_checklist",
+    "VS09_cta_close"
+   ],
+   "caption_body": "The description of goods and services is the least glamorous part of an application and the part that most affects its value.\n\nIt draws the boundary. Everything inside it is covered. Everything outside it is not.\n\nWrite it too tightly and a competitor can operate a step to the side of you, legitimately. Write it too loosely and you are claiming ground you cannot support, which creates its own problems.\n\nAnd once filed, you generally cannot broaden it. You can narrow it. You cannot grow it.\n\nThis is the paragraph worth slowing down for.",
+   "cta": "Save this before you file."
+  },
+  {
+   "id": "mis_ignoring_office_action",
+   "topic": "Letting an Office Action deadline pass",
+   "objective": "prevent_mistake",
+   "hook": "An Office Action is not a rejection. Ignoring one usually becomes one.",
+   "visual_concept": "An hourglass form abstracted into two opposing matte cones, single key light",
+   "key_points": [
+    "An Office Action is the examining attorney raising an issue that needs a response",
+    "Many are procedural and entirely fixable",
+    "There is a deadline, and missing it can cause the application to go abandoned",
+    "Abandonment usually means starting over from the beginning"
+   ],
+   "template_plan": [
+    "VS01_statement",
+    "VS10_timeline",
+    "VS08_question_answer",
+    "VS09_cta_close"
+   ],
+   "caption_body": "An envelope arrives from the USPTO. It uses words like refusal. People assume it is over and stop opening the mail.\n\nAn Office Action is a letter from the examining attorney saying something needs addressing. Plenty are procedural — a description that needs tightening, a specimen that needs replacing, a disclaimer that needs adding.\n\nWhat turns a fixable issue into a dead application is silence. There is a deadline. Let it pass and the application can go abandoned, and abandoned generally means starting again from the beginning.\n\nOpen the letter. Read the deadline. Respond.",
+   "cta": "Received an Office Action? DM us and we'll explain what it says."
+  },
+  {
+   "id": "mis_waiting_too_long",
+   "topic": "Waiting until the brand is established to file",
+   "objective": "prevent_mistake",
+   "hook": "The best time to file was before the packaging went to print.",
+   "visual_concept": "Two overlapping timelines rendered as thin luminous rails, one clearly ahead of the other",
+   "key_points": [
+    "Trademark rights turn heavily on who was first",
+    "Waiting gives someone else the chance to file for a similar mark",
+    "The longer you build on a name, the more expensive a forced change becomes",
+    "Rebranding costs are rarely just design costs"
+   ],
+   "template_plan": [
+    "VS01_statement",
+    "VS07_quote_stat",
+    "VS02_split",
+    "VS09_cta_close"
+   ],
+   "caption_body": "The reasoning sounds sensible: wait until the business is bigger, then protect the name.\n\nThe problem is that priority matters. While you wait, someone else can file for something close enough to cause you a problem — and they may have no idea you exist.\n\nAnd a forced rebrand does not get easier with time. It grows with every printed box, every piece of signage, every account that has learned your name, every backlink pointing at the old one.\n\nFiling early is not about the size of the business. It is about the cost of being wrong later.",
+   "cta": "Start a search at sharptrademarks.com."
+  },
+  {
+   "id": "mis_assuming_state_reg",
+   "topic": "Assuming a state business registration protects the brand",
+   "objective": "prevent_mistake",
+   "hook": "Your state filed your company. It did not clear your name.",
+   "visual_concept": "A single illuminated tile within a large dark grid of identical unlit tiles",
+   "key_points": [
+    "Registering an entity with a state creates the company, not brand rights",
+    "States generally check name availability on their own register only",
+    "Two businesses in different states can hold the same entity name",
+    "Federal trademark registration is the layer that addresses the national picture"
+   ],
+   "template_plan": [
+    "VS01_statement",
+    "VS04_myth_fact",
+    "VS06_comparison",
+    "VS09_cta_close"
+   ],
+   "caption_body": "Forming an LLC feels like the moment the name became yours. It is not what happened.\n\nA state formation creates a legal entity and checks the name against that state's own list of entities. That is the whole scope of the check.\n\nIt does not look at the federal trademark register. It does not consider businesses in other states. It does not stop anyone using the name commercially.\n\nWhich is why two companies with identical names can exist quite happily in different states — until one of them tries to grow.",
+   "cta": "Send this to someone who just formed an LLC."
+  },
+  {
+   "id": "mis_copying_competitor",
+   "topic": "Naming too close to an established competitor",
+   "objective": "prevent_mistake",
+   "hook": "If your name only works because theirs already does, it is a liability.",
+   "visual_concept": "Two concentric rings almost touching, the gap between them lit in teal",
+   "key_points": [
+    "Confusion is judged on the overall impression, not on exact spelling",
+    "Sound-alike and look-alike names in related categories carry real risk",
+    "Adding a word or changing a letter is rarely enough to clear a conflict",
+    "The stronger the competitor's mark, the wider the space it occupies"
+   ],
+   "template_plan": [
+    "VS01_statement",
+    "VS05_checklist",
+    "VS08_question_answer",
+    "VS09_cta_close"
+   ],
+   "caption_body": "There is a temptation, when a category leader exists, to name in their orbit. Close enough to borrow the recognition, different enough — you hope — to be safe.\n\nThat is not how the test works. Similarity is judged on overall commercial impression: how the marks look, how they sound, what they mean, and whether buyers in that category would connect them.\n\nSwapping a letter does not reset that. Adding a generic word rarely does either.\n\nAnd the stronger their mark, the more space around it they are entitled to defend.",
+   "cta": "Save this before you shortlist a name."
+  }
+ ]
+}

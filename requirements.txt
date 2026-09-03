@@ -1,0 +1,16 @@
+# --- core runtime ---------------------------------------------------------
+google-genai==2.22.0        # official Google Gemini SDK (image generation)
+requests==2.32.3            # Instagram Graph API calls
+Pillow==11.0.0              # deterministic branding: typography, logo, layout
+numpy==2.1.3                # image maths for validation + logo processing
+PyYAML==6.0.2               # settings.yaml
+python-dotenv==1.0.1        # local .env loading
+tenacity==9.0.0             # retries with exponential backoff
+ImageHash==4.3.1            # perceptual hashing for visual duplicate detection
+python-dateutil==2.9.0.post0
+tzdata==2024.2              # zoneinfo database on slim runners
+
+# --- dev / CI -------------------------------------------------------------
+pytest==8.3.4
+pytest-cov==6.0.0
+ruff==0.8.4

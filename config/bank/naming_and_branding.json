@@ -1,0 +1,173 @@
+{
+ "pillar": "naming_and_branding",
+ "items": [
+  {
+   "id": "nam_spectrum",
+   "topic": "The spectrum from unprotectable to unmistakable names",
+   "objective": "education",
+   "hook": "The name that describes your product best is usually the hardest to protect.",
+   "visual_concept": "A horizontal gradient from flat featureless grey to sharply structured navy and teal geometry",
+   "key_points": [
+    "Generic terms can never be owned",
+    "Descriptive names are refused without acquired distinctiveness",
+    "Suggestive names hint at a benefit and are registrable",
+    "Coined and arbitrary names are the strongest"
+   ],
+   "template_plan": [
+    "VS01_statement",
+    "VS10_timeline",
+    "VS02_split",
+    "VS09_cta_close"
+   ],
+   "caption_body": "There is a tension in naming that nobody warns founders about.\n\nThe clearer a name is about what you sell, the easier it is to market — and the harder it is to own. Nobody gets exclusive rights to the ordinary words for a thing, because everyone selling that thing needs them.\n\nSo the names that feel safest commercially are often the weakest legally.\n\nMove one step along the spectrum — from describing the product to suggesting the benefit — and you get something you can actually hold. Move further, to a coined word, and you get something almost nobody can crowd.\n\nThe marketing cost is real. So is the protection.",
+   "cta": "Save this before your next naming session."
+  },
+  {
+   "id": "nam_descriptive_trap",
+   "topic": "Why clever descriptive names fail at the register",
+   "objective": "prevent_mistake",
+   "hook": "If the name explains the product, it may not be yours to own.",
+   "visual_concept": "A transparent form dissolving into its background at the edges",
+   "key_points": [
+    "Descriptive marks are generally refused on the principal register",
+    "Acquired distinctiveness takes sustained evidence over years",
+    "Competitors must remain free to describe their own goods",
+    "A suggestive name achieves most of the clarity with far less risk"
+   ],
+   "template_plan": [
+    "VS01_statement",
+    "VS04_myth_fact",
+    "VS06_comparison",
+    "VS09_cta_close"
+   ],
+   "caption_body": "The naming session goes well. Someone lands on a phrase that says exactly what the product does. Everyone nods.\n\nThat is the moment to slow down.\n\nMarks that merely describe a quality, function or characteristic of the goods are generally refused registration. Not because the name is bad, but because competitors need those words to describe their own products.\n\nThere is a route through — showing that the public has come to associate the term specifically with you — but it takes years of evidence, not a good argument.\n\nSuggestive names get you most of the clarity and skip the problem.",
+   "cta": "Save this for the next naming meeting."
+  },
+  {
+   "id": "nam_product_vs_company",
+   "topic": "Whether to protect the company name or the product name",
+   "objective": "education",
+   "hook": "The name on the invoice and the name on the box are not always the one worth protecting.",
+   "visual_concept": "Two matte forms of different scale sharing a single base plane",
+   "key_points": [
+    "Customers usually recognise the product name, not the holding entity",
+    "Protection should follow the mark that carries commercial value",
+    "Some businesses need both; most start with the customer-facing one",
+    "The wrong choice leaves the valuable asset exposed"
+   ],
+   "template_plan": [
+    "VS01_statement",
+    "VS06_comparison",
+    "VS08_question_answer",
+    "VS09_cta_close"
+   ],
+   "caption_body": "A lot of businesses protect the entity name because that is the one on the paperwork.\n\nBut ask a customer to name the business and you will often get the product back. That is the mark doing the work — the one on the packaging, in the reviews, in the search queries.\n\nProtection should follow value, not admin. If the product name is what the market recognises, that is the asset worth securing first.\n\nSome businesses genuinely need both. Very few need only the entity name.",
+   "cta": "Not sure which one to file? DM us."
+  },
+  {
+   "id": "nam_rebrand_checklist",
+   "topic": "What to check before committing to a rebrand",
+   "objective": "prevent_mistake",
+   "hook": "A rebrand is the easiest moment to get protection right and the worst moment to skip it.",
+   "visual_concept": "A clean architectural facade mid-construction, scaffolding lines catching cool light",
+   "key_points": [
+    "Clear the new name before any design or production spend",
+    "Consider whether the wordmark or the design filing matters more",
+    "Check the categories you are moving into, not only where you are now",
+    "Plan what happens to the old mark"
+   ],
+   "template_plan": [
+    "VS01_statement",
+    "VS05_checklist",
+    "VS03_numbered_steps",
+    "VS09_cta_close"
+   ],
+   "caption_body": "A rebrand is a rare window. The name is not on anything yet. Changing course takes a conversation, not a budget.\n\nSo run clearance before the design work, not after it is approved. Check the categories you are moving into as well as the ones you are in. Decide whether the words or the visual treatment is the thing you actually need to protect — because they are separate filings.\n\nAnd decide what happens to the old mark. Sometimes it is worth keeping alive.\n\nEvery one of those questions is easy now and expensive in eight months.",
+   "cta": "Planning a rebrand? DM us before the design work starts."
+  },
+  {
+   "id": "nam_naming_for_growth",
+   "topic": "Naming for the business you are becoming",
+   "objective": "education",
+   "hook": "A name that fits perfectly today can box you in by year three.",
+   "visual_concept": "A narrow corridor opening into a much larger volume, cool architectural light",
+   "key_points": [
+    "Names tied to one product limit expansion into others",
+    "Geographic names can restrict growth beyond that region",
+    "Very narrow names can also narrow the protection you can claim",
+    "Room to grow is a naming criterion, not an afterthought"
+   ],
+   "template_plan": [
+    "VS01_statement",
+    "VS02_split",
+    "VS05_checklist",
+    "VS09_cta_close"
+   ],
+   "caption_body": "Founders name for the business they have. The name then has to serve the business they build.\n\nA name that references one product becomes awkward when the second one outsells it. A name anchored to a city becomes a liability when the customers are national. A name that spells out a single service quietly rules out the next three.\n\nThis is not only a branding problem. Narrow names often support narrower protection, because the description of goods and services follows what you actually do.\n\nName for the category you intend to occupy, not the first product you shipped.",
+   "cta": "Save this for your next naming session."
+  },
+  {
+   "id": "nam_handle_availability",
+   "topic": "Why an available handle is not an available name",
+   "objective": "myth_bust",
+   "hook": "The handle being free tells you nothing about whether the name is.",
+   "visual_concept": "An empty matte slot within an otherwise fully occupied grid",
+   "key_points": [
+    "Social platforms do not check trademark rights before issuing handles",
+    "A free handle can coexist with a registered mark in the same category",
+    "Platforms have processes for acting on trademark complaints",
+    "Availability is not permission"
+   ],
+   "template_plan": [
+    "VS01_statement",
+    "VS04_myth_fact",
+    "VS02_split",
+    "VS09_cta_close"
+   ],
+   "caption_body": "The handle was free. The domain was free. It felt like a sign.\n\nPlatforms hand out handles on a first-come basis. They do not check the trademark register, and they make no promise that the name is yours to use commercially.\n\nWhich is why you can hold a handle for two years and still receive a complaint from a mark owner — and platforms do have processes for acting on those.\n\nAn empty slot means nobody took it. It does not mean nobody owns the name.",
+   "cta": "Start with a search at sharptrademarks.com."
+  },
+  {
+   "id": "nam_slogan",
+   "topic": "When a slogan is worth protecting",
+   "objective": "education",
+   "hook": "Some slogans are assets. Most are just sentences.",
+   "visual_concept": "A single precise horizontal rule of teal light across a wide dark plane",
+   "key_points": [
+    "Slogans can be registered when they function as a source identifier",
+    "Common phrases and ordinary marketing language usually cannot",
+    "Consistent prominent use strengthens the case",
+    "A slogan filing is separate from the name filing"
+   ],
+   "template_plan": [
+    "VS01_statement",
+    "VS08_question_answer",
+    "VS06_comparison",
+    "VS09_cta_close"
+   ],
+   "caption_body": "A slogan can be a registrable trademark. It is not automatic.\n\nThe question is whether the phrase actually identifies you as the source, or whether it is just a nice line of copy. Ordinary marketing language, common expressions and pure information tend not to qualify.\n\nWhat helps is use: the slogan appearing consistently and prominently, tied to the brand, over time, so buyers come to associate it with you.\n\nAnd it is its own filing. Registering the name does not carry the slogan along with it.",
+   "cta": "Save this if your tagline is doing real work."
+  },
+  {
+   "id": "nam_founder_name",
+   "topic": "Using your own surname as a brand",
+   "objective": "education",
+   "hook": "Your surname is not automatically available as a trademark.",
+   "visual_concept": "A monolithic matte form with a single carved recess, dramatic side light",
+   "key_points": [
+    "Marks that are primarily a surname face particular hurdles",
+    "Distinctiveness can be acquired through substantial use over time",
+    "Combining the surname with distinctive elements can help",
+    "Someone else may already hold rights in the same surname in your field"
+   ],
+   "template_plan": [
+    "VS01_statement",
+    "VS08_question_answer",
+    "VS05_checklist",
+    "VS09_cta_close"
+   ],
+   "caption_body": "Naming the business after yourself feels like the one name nobody can argue with. The register does not see it that way.\n\nMarks that are primarily just a surname face a specific hurdle, because surnames are shared and the law is cautious about handing one person exclusivity over a family name.\n\nIt is not impossible. Sustained use can build the distinctiveness that makes a surname registrable, and pairing it with genuinely distinctive elements can help.\n\nAlso worth checking: whether someone with the same surname got to your category first.",
+   "cta": "Thinking of using your own name? DM us."
+  }
+ ]
+}

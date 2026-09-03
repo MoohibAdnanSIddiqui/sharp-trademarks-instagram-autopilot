@@ -1,0 +1,713 @@
+{
+  "version": "1.0.0",
+  "updated": "2026-09-03",
+  "brand": {
+    "name": "Sharp Trademarks",
+    "handle": "@sharptrademarks",
+    "website": "sharptrademarks.com",
+    "email": "info@sharptrademarks.com",
+    "phone": "+1 (903) 248-5831",
+    "location": "Fredericksburg, Virginia",
+    "positioning": "The clear, guided way for founders and growing businesses to protect their brand name, logo and slogan with the USPTO — without the confusion, the guesswork, or the avoidable filing mistakes.",
+    "promise": "You will understand what you are filing, why it matters, and what happens next.",
+    "category": "Trademark registration and brand-protection services"
+  },
+  "legal_positioning": {
+    "mode": "hybrid",
+    "permitted_framing": [
+      "trademark registration service",
+      "brand protection service",
+      "attorney-supported filing process",
+      "reviewed by an attorney before filing",
+      "our attorneys",
+      "attorney-guided",
+      "USPTO filing support",
+      "pre-filing risk review"
+    ],
+    "forbidden_framing": [
+      "we are your attorney",
+      "your attorney",
+      "your lawyer",
+      "attorney-client relationship",
+      "we represent you",
+      "legal representation",
+      "we will defend you in court",
+      "law firm associated with the Federal Office",
+      "government-affiliated",
+      "government agency",
+      "USPTO-endorsed",
+      "USPTO approved us",
+      "official USPTO partner",
+      "federally endorsed"
+    ],
+    "required_disclaimer_contexts": [
+      "any post explaining trademark law",
+      "any post explaining USPTO rules or timelines",
+      "any post comparing legal concepts (e.g. trademark vs copyright)"
+    ],
+    "disclaimer_variants": [
+      "Educational information, not legal advice.",
+      "General information only — not legal advice for your specific situation.",
+      "This is general guidance, not legal advice about your mark."
+    ],
+    "note": "Site copy currently contains a conflicting 'law firm associated with the Federal Office' line. Until that is verified and corrected, the system will not reproduce it.",
+    "mode_definition": "hybrid = a trademark filing service whose work is supported and reviewed by attorneys. Sharp Trademarks may say attorneys are involved; it may never say it IS the reader's attorney, that an attorney-client relationship exists, or that it is affiliated with or endorsed by the USPTO.",
+    "modes_available": {
+      "strict": "No legal-status framing at all. Never mentions attorneys.",
+      "hybrid": "ACTIVE. Attorney involvement may be stated; no attorney-client relationship implied.",
+      "law_firm": "Attorney-led framing permitted. Requires bar-compliance review before enabling."
+    }
+  },
+  "audience": {
+    "primary": {
+      "who": "US founders and small-business owners, 1–20 employees, 0–5 years in business",
+      "trigger_moments": [
+        "just picked a business name",
+        "about to launch or rebrand",
+        "found someone using a similar name",
+        "an e-commerce platform asked for brand registry proof",
+        "an investor or partner asked whether the name is protected",
+        "received a USPTO Office Action and does not understand it"
+      ],
+      "beliefs_to_overturn": [
+        "registering an LLC protects the name",
+        "buying the domain protects the name",
+        "a logo copyright covers the brand name",
+        "you can file later once you are bigger",
+        "the USPTO will tell you if the name is taken"
+      ],
+      "fears": [
+        "wasting the filing fee",
+        "getting refused",
+        "losing a name they already invested in",
+        "hidden costs",
+        "being upsold"
+      ]
+    },
+    "secondary": {
+      "who": "Agencies, e-commerce sellers, creators and franchise operators protecting multiple marks"
+    }
+  },
+  "personality": {
+    "traits": [
+      "precise",
+      "calm",
+      "plain-spoken",
+      "credible",
+      "generous with knowledge",
+      "unhurried"
+    ],
+    "is": "the sharp advisor who explains the thing your cousin's lawyer wouldn't",
+    "is_not": [
+      "hype merchant",
+      "fear-monger",
+      "legalese machine",
+      "discount-shouter",
+      "meme account"
+    ]
+  },
+  "voice": {
+    "reading_level": "8th grade — short sentences, concrete nouns",
+    "person": "second person ('you', 'your brand'); 'we' only for service statements",
+    "sentence_rhythm": "Lead with the claim. Then the evidence. Then the consequence.",
+    "opening_hooks": [
+      "problem_reveal: 'Your LLC does not protect your name.'",
+      "cost_of_inaction: 'The cheapest time to file was before you printed the packaging.'",
+      "myth_break: 'Trademark and copyright are not the same thing.'",
+      "specificity: 'Three words decide whether your application survives.'",
+      "question_frame: 'Would your brand survive someone else filing it first?'",
+      "sequence_promise: 'Here is what actually happens after you hit submit.'"
+    ],
+    "cta_style": {
+      "principle": "One CTA per caption. Low-friction, no pressure, no price.",
+      "approved": [
+        "Save this before you name your next product.",
+        "Send this to the founder who just picked a name.",
+        "Questions about your mark? DM us — we'll point you in the right direction.",
+        "Start a search at sharptrademarks.com.",
+        "Comment SEARCH and we'll send you the clearance checklist.",
+        "Follow @sharptrademarks for plain-English brand protection."
+      ],
+      "forbidden": [
+        "Link in bio!!!",
+        "DM NOW",
+        "Limited time",
+        "Act fast",
+        "Don't miss out",
+        "Only X spots left"
+      ]
+    },
+    "words_to_use": [
+      "protect",
+      "clear",
+      "file",
+      "register",
+      "search",
+      "risk",
+      "own",
+      "distinctive",
+      "conflict",
+      "evidence",
+      "plain English",
+      "step by step"
+    ],
+    "words_to_avoid": [
+      "guaranteed",
+      "guarantee",
+      "100%",
+      "approved instantly",
+      "cheapest",
+      "loophole",
+      "hack",
+      "secret",
+      "bulletproof",
+      "we promise",
+      "risk-free",
+      "no-brainer",
+      "game-changer",
+      "unlock",
+      "supercharge",
+      "revolutionary",
+      "elevate your brand"
+    ],
+    "emoji_policy": "Zero emojis in graphics. At most one in a caption, and only as a list marker. Never in the hook line."
+  },
+  "colors": {
+    "primary": {
+      "name": "Sharp Teal",
+      "hex": "#0d9488",
+      "rgb": [
+        13,
+        148,
+        136
+      ],
+      "use": "accents, rules, highlights, data marks, icon strokes"
+    },
+    "ink": {
+      "name": "Deep Navy",
+      "hex": "#101f3d",
+      "rgb": [
+        16,
+        31,
+        61
+      ],
+      "use": "primary background and primary text"
+    },
+    "paper": {
+      "name": "White",
+      "hex": "#ffffff",
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "use": "light background and reversed text"
+    },
+    "support": {
+      "navy_800": "#182a4e",
+      "navy_600": "#22375f",
+      "teal_300": "#5eead4",
+      "teal_700": "#0f766e",
+      "mist": "#f2f6f9",
+      "line": "#d9e2ea",
+      "muted_text": "#5b6b7f",
+      "warn": "#b45309"
+    },
+    "rules": [
+      "Every asset uses exactly one background family: navy OR paper. Never a gradient between the two.",
+      "Teal is an accent, never a background wash and never more than ~15% of the canvas.",
+      "Body text is #101f3d on light, #ffffff on navy. Never teal body text.",
+      "No colour outside this palette may appear as a flat UI element. Photographic/abstract imagery may carry incidental colour if it is desaturated toward the palette.",
+      "Minimum contrast 4.5:1 for any text under 32px, 3:1 above."
+    ]
+  },
+  "typography": {
+    "headline": {
+      "family": "Manrope",
+      "file": "assets/fonts/Manrope-Variable.ttf",
+      "weights": [
+        "ExtraBold",
+        "Bold"
+      ],
+      "tracking": -0.015,
+      "line_height": 1.06,
+      "case": "sentence case"
+    },
+    "body": {
+      "family": "Inter",
+      "file": "assets/fonts/Inter-Variable.ttf",
+      "weights": [
+        "Regular",
+        "Medium",
+        "SemiBold"
+      ],
+      "tracking": 0.0,
+      "line_height": 1.42
+    },
+    "eyebrow": {
+      "family": "Inter",
+      "weight": "SemiBold",
+      "case": "UPPERCASE",
+      "tracking": 0.14,
+      "size_px": 26
+    },
+    "scale_1080x1350": {
+      "eyebrow": 26,
+      "headline_xl": 104,
+      "headline_l": 86,
+      "headline_m": 68,
+      "subhead": 44,
+      "body": 36,
+      "caption_small": 28,
+      "footer": 26
+    },
+    "rules": [
+      "Maximum two type sizes competing for attention on any single slide.",
+      "Headlines never exceed 7 words per line or 4 lines total.",
+      "Never letterspace lowercase body text.",
+      "Never set headlines in ALL CAPS except the eyebrow label.",
+      "Never centre-align body copy longer than two lines."
+    ]
+  },
+  "logo": {
+    "assets": {
+      "full": "assets/brand/logo_full.png",
+      "full_reversed": "assets/brand/logo_full_reversed.png",
+      "mark": "assets/brand/logo_mark.png",
+      "mark_reversed": "assets/brand/logo_mark_reversed.png",
+      "wordmark": "assets/brand/logo_wordmark.png",
+      "wordmark_reversed": "assets/brand/logo_wordmark_reversed.png"
+    },
+    "rules": [
+      "The logo is ALWAYS composited by Python from these files. Gemini must never draw it.",
+      "Reversed variants on navy; standard variants on paper.",
+      "Clear space on all sides equals the height of the emblem's inner circle (~0.4x logo height).",
+      "Minimum wordmark width 180px at 1080px canvas. Below that, use the mark alone.",
+      "Never recolour, rotate, outline, add shadow to, or place the logo on a busy area of imagery.",
+      "Feed posts carry the logo once — bottom-left of the final slide or the single image footer."
+    ]
+  },
+  "layout": {
+    "canvas": {
+      "feed": [
+        1080,
+        1350
+      ],
+      "carousel": [
+        1080,
+        1350
+      ]
+    },
+    "safe_margin_px": 84,
+    "grid": {
+      "columns": 6,
+      "gutter_px": 24
+    },
+    "rules": [
+      "Nothing important within 84px of any edge.",
+      "A single consistent left edge across all text on a slide.",
+      "Slide 1 of a carousel is the hook. The last slide is the CTA. Never both on one slide.",
+      "Carousels show a slide counter (e.g. 03/07) in the top-right at 26px.",
+      "Every slide carries the small footer lockup: sharptrademarks.com on the left, handle on the right."
+    ]
+  },
+  "imagery": {
+    "role": "Gemini generates atmosphere, texture and abstract structure — never text, never logos, never the layout.",
+    "approved_styles": [
+      "abstract geometric fields built from concentric arcs and rising bars, echoing the emblem",
+      "soft-focus macro photography of paper, ink, embossing and document texture, heavily desaturated",
+      "clean isometric 3D of simple objects (shield, document, stamp, magnifier) in matte navy and teal",
+      "long-exposure light-trail gradients over deep navy",
+      "architectural photography with strong verticals, cool cast, shallow depth of field",
+      "minimal line-art diagrams with generous negative space"
+    ],
+    "forbidden": [
+      "any legible text, letterforms, numbers or signage",
+      "logos, wordmarks or brand marks of any kind",
+      "gavels, courtrooms, scales of justice, judges, wigs — legal clichés",
+      "stock-photo handshakes, thumbs-up, arrows pointing at the camera",
+      "identifiable faces or real people",
+      "AI artefacts: extra fingers, warped hands, melted objects",
+      "neon cyberpunk, glossy 3D chrome, lens flare, bokeh confetti",
+      "flags, government seals, eagles or anything implying official endorsement",
+      "busy centre composition — the middle-left must stay calm enough for type"
+    ],
+    "composition_defaults": {
+      "negative_space": "at least 45% of the frame, biased to the upper-left where the headline sits",
+      "focal_placement": "lower-right third",
+      "lighting": "single soft key from upper left, deep controlled shadows",
+      "depth_of_field": "shallow",
+      "grain": "very fine, film-like"
+    },
+    "color_direction": "Restrict to deep navy #101f3d, teal #0d9488, white and neutral greys. No warm colours above 10% of the frame."
+  },
+  "visual_systems": [
+    {
+      "id": "VS01_statement",
+      "name": "Statement",
+      "use_for": [
+        "myths_vs_facts",
+        "costly_mistakes",
+        "trademark_education"
+      ],
+      "background": "navy",
+      "structure": "Full-bleed generated texture at 22% opacity over navy. Eyebrow top-left, one huge headline, thin teal rule beneath, one supporting line. Logo bottom-left.",
+      "formats": [
+        "single_image",
+        "carousel_cover"
+      ]
+    },
+    {
+      "id": "VS02_split",
+      "name": "Split Frame",
+      "use_for": [
+        "trademark_education",
+        "uspto_process",
+        "naming_and_branding"
+      ],
+      "background": "paper",
+      "structure": "Top 45% generated imagery, bottom 55% paper with eyebrow, headline and 2–3 line body. Teal rule divides them.",
+      "formats": [
+        "single_image",
+        "carousel_cover"
+      ]
+    },
+    {
+      "id": "VS03_numbered_steps",
+      "name": "Numbered Steps",
+      "use_for": [
+        "uspto_process",
+        "search_and_clearance",
+        "trademark_education"
+      ],
+      "background": "paper",
+      "structure": "Oversized teal outline numeral top-left, step title, two-line explanation, hairline rule. Consistent across a carousel.",
+      "formats": [
+        "carousel_body"
+      ]
+    },
+    {
+      "id": "VS04_myth_fact",
+      "name": "Myth / Fact",
+      "use_for": [
+        "myths_vs_facts",
+        "faq_and_objections"
+      ],
+      "background": "navy",
+      "structure": "Upper block labelled MYTH in muted grey with strikethrough rule; lower block labelled FACT in teal. Strong horizontal divider.",
+      "formats": [
+        "single_image",
+        "carousel_body"
+      ]
+    },
+    {
+      "id": "VS05_checklist",
+      "name": "Checklist",
+      "use_for": [
+        "search_and_clearance",
+        "naming_and_branding",
+        "costly_mistakes"
+      ],
+      "background": "paper",
+      "structure": "Eyebrow, tight headline, 4–6 rows each with a teal check or cross glyph drawn by Python, hairline separators.",
+      "formats": [
+        "single_image",
+        "carousel_body"
+      ]
+    },
+    {
+      "id": "VS06_comparison",
+      "name": "Two Column Compare",
+      "use_for": [
+        "trademark_education",
+        "faq_and_objections"
+      ],
+      "background": "paper",
+      "structure": "Two equal columns with navy and teal headers, 3–5 matched rows, vertical hairline between.",
+      "formats": [
+        "single_image",
+        "carousel_body"
+      ]
+    },
+    {
+      "id": "VS07_quote_stat",
+      "name": "Pull Statement",
+      "use_for": [
+        "trust_and_service",
+        "monitoring_and_enforcement"
+      ],
+      "background": "navy",
+      "structure": "Large teal quote bar on the left edge, one 12–20 word statement set at headline_l, attribution line beneath. Verified figures only.",
+      "formats": [
+        "single_image",
+        "carousel_body"
+      ]
+    },
+    {
+      "id": "VS08_question_answer",
+      "name": "Question / Answer",
+      "use_for": [
+        "faq_and_objections",
+        "trademark_education"
+      ],
+      "background": "paper",
+      "structure": "Question in navy headline with a teal question glyph, answer in body below a hairline, generous space.",
+      "formats": [
+        "single_image",
+        "carousel_body"
+      ]
+    },
+    {
+      "id": "VS09_cta_close",
+      "name": "Closing Card",
+      "use_for": [
+        "all"
+      ],
+      "background": "navy",
+      "structure": "Centred logo full-reversed, one CTA line, website, handle. Subtle generated arc texture at 15%.",
+      "formats": [
+        "carousel_close"
+      ]
+    },
+    {
+      "id": "VS10_timeline",
+      "name": "Timeline",
+      "use_for": [
+        "uspto_process",
+        "monitoring_and_enforcement"
+      ],
+      "background": "paper",
+      "structure": "Vertical teal spine on the left with node dots, 3–5 stages each with a bold label and one-line detail.",
+      "formats": [
+        "single_image",
+        "carousel_body"
+      ]
+    }
+  ],
+  "content_pillars": [
+    {
+      "id": "trademark_education",
+      "name": "Trademark Education",
+      "goal": "Make the fundamentals obvious",
+      "sample_angles": [
+        "what a trademark actually protects",
+        "trademark vs copyright vs patent",
+        "TM vs ® and when you may use each",
+        "what 'distinctive' means",
+        "classes and why one filing is not enough"
+      ]
+    },
+    {
+      "id": "costly_mistakes",
+      "name": "Costly Mistakes",
+      "goal": "Prevent avoidable loss",
+      "sample_angles": [
+        "filing before searching",
+        "describing goods and services too narrowly",
+        "using a descriptive name",
+        "letting a specimen fail",
+        "missing a deadline"
+      ]
+    },
+    {
+      "id": "myths_vs_facts",
+      "name": "Myths vs Facts",
+      "goal": "Overturn expensive beliefs",
+      "sample_angles": [
+        "'my LLC protects my name'",
+        "'I own the domain so I own the name'",
+        "'copyright covers my logo AND my name'",
+        "'nobody else is using it, so it's free'"
+      ]
+    },
+    {
+      "id": "search_and_clearance",
+      "name": "Search & Clearance",
+      "goal": "Show why pre-filing review matters",
+      "sample_angles": [
+        "what a knockout search misses",
+        "phonetic and visual similarity",
+        "common-law use",
+        "how conflicts are judged"
+      ]
+    },
+    {
+      "id": "naming_and_branding",
+      "name": "Naming & Branding",
+      "goal": "Reach founders at the naming moment",
+      "sample_angles": [
+        "the spectrum from generic to fanciful",
+        "why clever descriptive names fail",
+        "naming for a product line vs a company",
+        "how to name so it can be protected"
+      ]
+    },
+    {
+      "id": "uspto_process",
+      "name": "USPTO Process",
+      "goal": "Remove the fear of the unknown",
+      "sample_angles": [
+        "what happens after you file",
+        "what an examining attorney checks",
+        "what an Office Action is",
+        "publication and opposition",
+        "intent-to-use vs in-use"
+      ]
+    },
+    {
+      "id": "monitoring_and_enforcement",
+      "name": "Monitoring & Enforcement",
+      "goal": "Show that registration is a start, not an end",
+      "sample_angles": [
+        "why registration alone does not stop copycats",
+        "what monitoring watches for",
+        "first steps when someone copies you",
+        "maintenance deadlines"
+      ]
+    },
+    {
+      "id": "faq_and_objections",
+      "name": "FAQs & Objections",
+      "goal": "Answer what stops people filing",
+      "sample_angles": [
+        "how long does it take",
+        "can I file myself",
+        "what if I get refused",
+        "do I need one per product",
+        "what if I only sell online"
+      ]
+    },
+    {
+      "id": "trust_and_service",
+      "name": "Trust & Service",
+      "goal": "Convert attention into enquiry",
+      "sample_angles": [
+        "how the 3-step process works",
+        "what a pre-filing risk review covers",
+        "what we do when an Office Action arrives",
+        "what to have ready before you file"
+      ]
+    }
+  ],
+  "hashtags": {
+    "core": [
+      "#trademark",
+      "#trademarkregistration",
+      "#brandprotection",
+      "#smallbusinesstips",
+      "#entrepreneurtips"
+    ],
+    "pools": {
+      "legal": [
+        "#intellectualproperty",
+        "#trademarklaw",
+        "#uspto",
+        "#iplaw",
+        "#trademarkattorney",
+        "#copyright"
+      ],
+      "business": [
+        "#smallbusinessowner",
+        "#businessowner",
+        "#startuptips",
+        "#founders",
+        "#businessgrowth",
+        "#entrepreneurship"
+      ],
+      "branding": [
+        "#branding",
+        "#brandstrategy",
+        "#brandidentity",
+        "#businessname",
+        "#namingstrategy",
+        "#brandbuilding"
+      ],
+      "commerce": [
+        "#ecommercetips",
+        "#amazonseller",
+        "#etsyseller",
+        "#shopifystore",
+        "#onlinebusiness"
+      ]
+    },
+    "banned": [
+      "#follow4follow",
+      "#like4like",
+      "#explorepage",
+      "#viral",
+      "#f4f",
+      "#trademarkfree",
+      "#freelegaladvice"
+    ]
+  },
+  "prohibited_claims": [
+    "guaranteed registration",
+    "guaranteed approval",
+    "we guarantee",
+    "100% approval",
+    "100% success",
+    "approval rate",
+    "never rejected",
+    "fastest in the industry",
+    "cheapest",
+    "#1 trademark",
+    "government approved",
+    "USPTO approved us",
+    "official government agency",
+    "federally endorsed",
+    "instant trademark",
+    "same day trademark",
+    "risk free",
+    "we win every case"
+  ],
+  "verified_facts": [
+    {
+      "claim": "500+ trademark applications filed",
+      "source": "brand-supplied",
+      "usable": true
+    },
+    {
+      "claim": "150+ verified client reviews",
+      "source": "brand-supplied",
+      "usable": true
+    },
+    {
+      "claim": "Simple, 3-step online filing process",
+      "source": "brand-supplied",
+      "usable": true
+    },
+    {
+      "claim": "Based in Fredericksburg, Virginia",
+      "source": "brand-supplied",
+      "usable": true
+    }
+  ],
+  "unverified_do_not_use": [
+    "any star rating or review-platform score",
+    "any named testimonial",
+    "any USPTO statistic not cited to uspto.gov",
+    "any approval, refusal or success percentage",
+    "any competitor comparison",
+    "any pricing whatsoever"
+  ],
+  "pricing_policy": {
+    "rule": "NO PRICING ANYWHERE. Not in graphics, captions, alt text, hashtags or CTAs.",
+    "banned_tokens": [
+      "$",
+      "USD",
+      "price",
+      "pricing",
+      "starting from",
+      "starting at",
+      "per quarter",
+      "fee schedule",
+      "cost you",
+      "$35",
+      "$149",
+      "$249",
+      "affordable rates",
+      "flat fee"
+    ],
+    "allowed_exception": "The phrase 'USPTO filing fees' may appear ONLY when explaining that government fees exist and are separate — with no amount attached."
+  }
+}

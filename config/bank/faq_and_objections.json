@@ -1,0 +1,173 @@
+{
+ "pillar": "faq_and_objections",
+ "items": [
+  {
+   "id": "faq_diy",
+   "topic": "Whether you can file a trademark yourself",
+   "objective": "objection",
+   "hook": "You can file it yourself. Here is where it usually goes wrong.",
+   "visual_concept": "A precision tool resting on a cool grey workbench, shallow depth of field",
+   "key_points": [
+    "The USPTO accepts applications directly from owners",
+    "The form is not the hard part",
+    "Classes, descriptions and specimens are where applications fail",
+    "The cost of a refusal is the filing fee plus the delay"
+   ],
+   "template_plan": [
+    "VS08_question_answer",
+    "VS05_checklist",
+    "VS02_split",
+    "VS09_cta_close"
+   ],
+   "caption_body": "Yes. The USPTO accepts applications from owners directly, and plenty of people file their own.\n\nThe form is not what catches people. What catches people is the description of goods and services, the classes chosen, and the specimen submitted. Those three decide whether the application survives examination, and none of them is obvious from the outside.\n\nSo the real question is not whether you can. It is what a refusal would cost you — the filing fee, which generally is not returned, plus months of delay while a competitor keeps building.\n\nIf the name matters, that is the number to weigh.",
+   "cta": "Questions about your filing? DM us."
+  },
+  {
+   "id": "faq_how_long",
+   "topic": "How long the whole process takes",
+   "objective": "objection",
+   "hook": "The honest answer to how long it takes is: longer than the filing.",
+   "visual_concept": "A long shallow gradient receding into cool haze, a single teal marker far ahead",
+   "key_points": [
+    "Filing is quick; examination runs on the USPTO's timeline",
+    "Office Actions extend the process",
+    "Publication adds a further period before registration",
+    "No service can shorten the queue"
+   ],
+   "template_plan": [
+    "VS08_question_answer",
+    "VS10_timeline",
+    "VS04_myth_fact",
+    "VS09_cta_close"
+   ],
+   "caption_body": "Filing takes an afternoon. Everything after it runs on the USPTO's clock.\n\nThe application waits for assignment. It gets examined. If an Office Action is issued, you respond and it goes back into a queue. If it clears, it publishes, and a further period runs before registration.\n\nAnyone who promises you a fixed registration date is quoting the part they control and calling it the whole thing.\n\nWhat you can influence is how many rounds it takes — and that comes down to how well the application was put together in the first place.",
+   "cta": "Save this so you know what to expect."
+  },
+  {
+   "id": "faq_refused",
+   "topic": "What happens if your application is refused",
+   "objective": "objection",
+   "hook": "A refusal is not always the end of the application.",
+   "visual_concept": "A door-like matte form standing slightly ajar, teal light in the gap",
+   "key_points": [
+    "Many refusals can be responded to and overcome",
+    "Some are procedural and straightforward to address",
+    "Others require argument or evidence",
+    "Missing the response deadline is what makes a refusal final"
+   ],
+   "template_plan": [
+    "VS08_question_answer",
+    "VS02_split",
+    "VS10_timeline",
+    "VS09_cta_close"
+   ],
+   "caption_body": "Refusal is a heavy word for what is often a solvable problem.\n\nA good number of refusals are procedural — the description needs amending, a disclaimer is required, the specimen needs replacing. Those are answered and the application moves on.\n\nOthers are substantive and need a genuine argument, sometimes supported by evidence. Those are harder, and not all of them succeed.\n\nWhat makes a refusal permanent is not its severity. It is silence. Let the response deadline pass and the application goes abandoned, whatever the merits were.",
+   "cta": "Received a refusal? DM us and we'll read it with you."
+  },
+  {
+   "id": "faq_online_only",
+   "topic": "Whether an online-only business needs a trademark",
+   "objective": "objection",
+   "hook": "Selling only online does not make your name easier to protect. It makes it easier to copy.",
+   "visual_concept": "A dense grid of identical matte tiles extending beyond the frame, one lit in teal",
+   "key_points": [
+    "Online businesses are visible to everyone, everywhere, immediately",
+    "Marketplace brand programmes commonly require a registration",
+    "Domains and handles do not create trademark rights",
+    "Copying is faster online than anywhere else"
+   ],
+   "template_plan": [
+    "VS08_question_answer",
+    "VS05_checklist",
+    "VS02_split",
+    "VS09_cta_close"
+   ],
+   "caption_body": "Online-only founders sometimes assume trademarks are for businesses with premises and shelves.\n\nThe opposite pressure applies. An online brand is visible to everyone from day one, including people who will copy the name, the listings and the positioning within a week.\n\nAnd the practical tools for dealing with that — marketplace brand programmes, platform complaint routes — commonly ask for a registration before they will help you.\n\nThe domain does not do this. The handle does not do this. The registration is the credential those systems recognise.",
+   "cta": "Selling online? Start a search at sharptrademarks.com."
+  },
+  {
+   "id": "faq_multiple_products",
+   "topic": "Whether you need a separate filing for each product",
+   "objective": "objection",
+   "hook": "You do not need one filing per product. You may need more than one class.",
+   "visual_concept": "A single matte form casting several distinct shadows across a plane",
+   "key_points": [
+    "One application can cover multiple goods and services",
+    "Classes, not products, drive the structure",
+    "Government fees generally scale with the number of classes",
+    "Filing for classes you cannot support creates its own risk"
+   ],
+   "template_plan": [
+    "VS08_question_answer",
+    "VS06_comparison",
+    "VS05_checklist",
+    "VS09_cta_close"
+   ],
+   "caption_body": "A common worry: a catalogue of forty products means forty applications.\n\nIt does not. One application can cover a broad range of goods and services. What drives the structure is classes — the categories the system organises goods and services into.\n\nSo forty products within one class is one application. Two genuinely different business lines may sit in two classes, and government fees generally scale with that.\n\nThe temptation is to add classes for coverage. Resist it. Claiming ground you cannot support in commerce creates problems of its own.",
+   "cta": "Not sure how many classes you need? DM us."
+  },
+  {
+   "id": "faq_already_using",
+   "topic": "Whether it is too late to file for a name you have used for years",
+   "objective": "objection",
+   "hook": "Using the name for years does not disqualify you. It usually helps.",
+   "visual_concept": "Deep layered strata in matte navy, older layers lit from a low angle",
+   "key_points": [
+    "Long use in commerce supports your position",
+    "Evidence of first use may establish priority over later applicants",
+    "There is no deadline that closes the door on filing",
+    "Waiting longer only increases exposure"
+   ],
+   "template_plan": [
+    "VS08_question_answer",
+    "VS04_myth_fact",
+    "VS02_split",
+    "VS09_cta_close"
+   ],
+   "caption_body": "People who have traded under a name for six or seven years sometimes assume they missed the window.\n\nThere is no window that closes. And the years of use are not a problem — in the US they are an asset, because rights here are built substantially on use. Documented use can establish a priority position against someone who filed more recently.\n\nWhat the delay does create is exposure. Every year unregistered is a year in which someone else can file, and in which your claim rests on evidence you may not have kept.\n\nLate is fine. Later is worse.",
+   "cta": "Been trading for years? DM us."
+  },
+  {
+   "id": "faq_name_taken",
+   "topic": "What to do if your name is already registered by someone else",
+   "objective": "objection",
+   "hook": "Someone else registered your name. That is not always the end of it.",
+   "visual_concept": "Two overlapping matte territories, the overlap region lit in teal",
+   "key_points": [
+    "Registrations are tied to specific goods and services",
+    "Unrelated categories can sometimes coexist",
+    "Your own earlier use may matter",
+    "Some registrations are vulnerable if the mark is not in use"
+   ],
+   "template_plan": [
+    "VS08_question_answer",
+    "VS06_comparison",
+    "VS05_checklist",
+    "VS09_cta_close"
+   ],
+   "caption_body": "Finding your name on the register is a bad morning. It is not automatically a dead end.\n\nRegistrations cover specific goods and services. A mark registered in a genuinely unrelated field may not stand in your way at all, depending on how related a buyer would consider the two.\n\nIf you were using the name before they filed, that matters too.\n\nAnd registrations are not indestructible — marks that are not actually being used can be vulnerable.\n\nNone of that is a promise. It is a reason to get the position assessed properly before you abandon a name you have built.",
+   "cta": "Found a conflict? DM us and we'll look at it."
+  },
+  {
+   "id": "faq_worth_it",
+   "topic": "Whether a small business really needs to register",
+   "objective": "objection",
+   "hook": "The question is not whether the business is big enough. It is what the name is worth losing.",
+   "visual_concept": "A small precisely lit matte form casting a long shadow across a wide plane",
+   "key_points": [
+    "The cost of a forced rebrand rises with every month of use",
+    "Registration creates a public record and nationwide claim",
+    "It supports marketplace and platform enforcement tools",
+    "It is an asset in diligence, licensing and sale"
+   ],
+   "template_plan": [
+    "VS08_question_answer",
+    "VS02_split",
+    "VS05_checklist",
+    "VS09_cta_close"
+   ],
+   "caption_body": "The honest framing is not about business size. It is about replacement cost.\n\nIf you had to change the name next quarter, what would go with it? Packaging. Signage. The domain and every link pointing at it. Search rankings. Reviews attached to a name that no longer exists. Customers who know you as one thing being asked to learn another.\n\nFor some businesses that is a manageable afternoon. For most, it is a number nobody wants to write down.\n\nRegistration is the thing that makes that scenario much less likely. Weigh it against that, not against the size of the company.",
+   "cta": "Start with a search at sharptrademarks.com."
+  }
+ ]
+}

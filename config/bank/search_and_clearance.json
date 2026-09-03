@@ -1,0 +1,173 @@
+{
+ "pillar": "search_and_clearance",
+ "items": [
+  {
+   "id": "srch_what_search_misses",
+   "topic": "What a quick knockout search cannot tell you",
+   "objective": "education",
+   "hook": "Searching the exact spelling is the easiest part of clearance. It is also the least useful.",
+   "visual_concept": "A fine mesh screen catching large particles while smaller ones pass through, macro, cool light",
+   "key_points": [
+    "Exact-match searching only rules out the most obvious conflicts",
+    "Phonetic equivalents and visual near-matches carry the real risk",
+    "Related goods and services widen the field considerably",
+    "Pending applications matter even though they are not yet registered"
+   ],
+   "template_plan": [
+    "VS01_statement",
+    "VS05_checklist",
+    "VS03_numbered_steps",
+    "VS09_cta_close"
+   ],
+   "caption_body": "Typing your name into a database and getting no exact match feels conclusive. It is the beginning of the work, not the end.\n\nConflicts rarely look identical. They sound alike. They share a dominant element. They mean the same thing in a different word. They sit in a class you did not think to check but that a buyer would see as related.\n\nAnd pending applications, not yet registered, still shape what is available.\n\nA clearance review is a search for the things that do not match on the surface. That is where applications actually fail.",
+   "cta": "Comment SEARCH and we'll send you the checklist."
+  },
+  {
+   "id": "srch_phonetic",
+   "topic": "How sound-alike names create conflicts",
+   "objective": "education",
+   "hook": "Two names that look different on paper can be the same name out loud.",
+   "visual_concept": "Overlapping concentric sound-wave rings rendered as thin teal arcs on deep navy",
+   "key_points": [
+    "Marks are compared by sound as well as by appearance",
+    "Consumers often encounter brands verbally — recommendations, radio, voice search",
+    "Deliberate respellings usually share the same pronunciation",
+    "Sound similarity alone can be enough to raise a conflict"
+   ],
+   "template_plan": [
+    "VS01_statement",
+    "VS06_comparison",
+    "VS02_split",
+    "VS09_cta_close"
+   ],
+   "caption_body": "Say your shortlist out loud. Then say the names already in your category.\n\nMarks are compared on sound as well as sight, because that is how a great deal of brand discovery actually happens — a recommendation across a table, a mention on a podcast, a voice assistant taking an order.\n\nWhich is why a clever respelling rarely creates distance. If the two names are indistinguishable when spoken, the spelling difference is doing less work than you think.\n\nRead the shortlist aloud. It is the simplest clearance test there is.",
+   "cta": "Save this for your next naming session."
+  },
+  {
+   "id": "srch_related_goods",
+   "topic": "Why conflicts appear in categories you did not file in",
+   "objective": "education",
+   "hook": "Your competition for a name is wider than your competition for customers.",
+   "visual_concept": "A cluster of matte tiles at varying heights, adjacent ones sharing a teal edge",
+   "key_points": [
+    "Confusion analysis considers whether goods and services are related, not identical",
+    "Adjacent categories can conflict — apparel and accessories, software and consulting",
+    "Channels of trade and typical buyers are part of the assessment",
+    "A mark in a neighbouring class can still block you"
+   ],
+   "template_plan": [
+    "VS01_statement",
+    "VS05_checklist",
+    "VS08_question_answer",
+    "VS09_cta_close"
+   ],
+   "caption_body": "People search their own class and conclude the coast is clear.\n\nThe analysis is not that narrow. It asks whether the goods or services are related closely enough that a buyer might assume a common source. Apparel and accessories. Software and the consulting built around it. Beverages and the bar that serves them.\n\nIt also looks at how the products reach people and who buys them.\n\nSo a registration sitting in a class you never considered can still stand in your way — because to a customer, the two businesses would look connected.",
+   "cta": "Questions about your class? DM us."
+  },
+  {
+   "id": "srch_common_law_search",
+   "topic": "Looking for businesses that never registered anything",
+   "objective": "education",
+   "hook": "The riskiest conflicts are often the ones that never filed.",
+   "visual_concept": "Faint structures emerging from deep shadow under a single low raking light",
+   "key_points": [
+    "Common-law users can hold rights without any registration",
+    "They will not appear on the federal register",
+    "Trade directories, marketplaces and local listings are part of a thorough review",
+    "An unregistered prior user can still challenge your use"
+   ],
+   "template_plan": [
+    "VS01_statement",
+    "VS02_split",
+    "VS05_checklist",
+    "VS09_cta_close"
+   ],
+   "caption_body": "A register search shows you who filed. It does not show you who has simply been trading.\n\nBusinesses build common-law rights by using a mark in commerce, with no paperwork at all. They are invisible on the federal register and entirely real in a dispute.\n\nWhich is why a proper clearance review looks past the register — at marketplaces, directories, social handles, local listings, industry press. The places a business exists before it ever thinks about filing.\n\nThe conflict that surprises people is almost never the registered one. It is the one that was there all along.",
+   "cta": "Start a search at sharptrademarks.com."
+  },
+  {
+   "id": "srch_when_to_search",
+   "topic": "The right moment to run a clearance search",
+   "objective": "education",
+   "hook": "Search when the name is still a candidate, not when it is already on the sign.",
+   "visual_concept": "A branching path abstracted into thin luminous rails, one branch still open",
+   "key_points": [
+    "Clearance is easiest while you still have alternatives",
+    "Once packaging, signage and accounts exist, changing costs far more",
+    "Search before committing spend, not after",
+    "Shortlisting several names makes a clean result more likely"
+   ],
+   "template_plan": [
+    "VS01_statement",
+    "VS10_timeline",
+    "VS03_numbered_steps",
+    "VS09_cta_close"
+   ],
+   "caption_body": "The value of a clearance search is highest at the exact moment it feels least urgent — when the name is still one of several.\n\nAt that point, a problem is information. You cross a name off and move to the next.\n\nRun the same search after the packaging is printed, the signage is up and two years of customers know the name, and the identical result becomes a crisis with a budget attached.\n\nNothing about the search changed. What changed is the weight a bad answer now carries.\n\nShortlist three. Clear them. Then commit.",
+   "cta": "Save this before you commit to a name."
+  },
+  {
+   "id": "srch_reading_results",
+   "topic": "How to read a search result that is not a clean yes",
+   "objective": "education",
+   "hook": "Most clearance results are not yes or no. They are how much risk.",
+   "visual_concept": "A gradient scale rendered as stacked matte bars ascending left to right",
+   "key_points": [
+    "Very few names come back with zero related marks",
+    "The question is how close, how related, and how strong the other mark is",
+    "Some risks can be managed by narrowing the description",
+    "Understanding the risk is what lets you make an informed decision"
+   ],
+   "template_plan": [
+    "VS01_statement",
+    "VS06_comparison",
+    "VS08_question_answer",
+    "VS09_cta_close"
+   ],
+   "caption_body": "People expect a clearance search to return a verdict. It usually returns a picture.\n\nAlmost every name has something in its neighbourhood. What matters is how close that something is, how related the goods are, how strong the other mark is, and whether the owner has a history of defending it.\n\nSome risks are worth accepting. Some can be reduced by narrowing how you describe your goods and services. Some are clear signals to pick a different name.\n\nThe point of the search is not a stamp. It is knowing which of those three you are looking at before you spend anything.",
+   "cta": "Questions about a result you received? DM us."
+  },
+  {
+   "id": "srch_shortlist",
+   "topic": "Clearing several names at once instead of one",
+   "objective": "education",
+   "hook": "Fall in love with one name and you have no leverage.",
+   "visual_concept": "Three parallel matte columns of unequal height, one lit in teal",
+   "key_points": [
+    "A single favourite makes a bad result feel like a disaster",
+    "Clearing a shortlist keeps the decision commercial rather than emotional",
+    "Alternatives cost far less to consider before launch",
+    "The strongest names are often not the first choice"
+   ],
+   "template_plan": [
+    "VS01_statement",
+    "VS05_checklist",
+    "VS02_split",
+    "VS09_cta_close"
+   ],
+   "caption_body": "The most expensive thing in naming is not a bad name. It is a favourite.\n\nOnce a founder has settled on one word, every clearance result becomes a negotiation with reality. People start reasoning around risks they would never accept if the name were still one of three.\n\nSo carry a shortlist into clearance. Three names you would genuinely be happy with. Let the search tell you which one is cleanest.\n\nYou end up with a stronger mark and a decision you are not arguing yourself into.",
+   "cta": "Save this for your next naming session."
+  },
+  {
+   "id": "srch_diy_limits",
+   "topic": "What you can check yourself before asking for help",
+   "objective": "education",
+   "hook": "You can do the first hour of clearance yourself. Here is what it covers.",
+   "visual_concept": "A workbench surface in cool grey with a single precision tool, shallow depth of field",
+   "key_points": [
+    "Public trademark search tools are free and worth using early",
+    "Marketplace, social and directory searches surface unregistered users",
+    "Saying the name aloud catches phonetic near-matches",
+    "A self-check narrows the shortlist; it does not replace a full review"
+   ],
+   "template_plan": [
+    "VS01_statement",
+    "VS03_numbered_steps",
+    "VS05_checklist",
+    "VS09_cta_close"
+   ],
+   "caption_body": "You do not need anyone to run the first pass. Do this before you get attached.\n\nSearch the public trademark database for the exact word and for the obvious variants. Search the marketplaces where your category sells. Search social handles. Search the name plus your industry.\n\nThen say it out loud and search what it sounds like, not what it looks like.\n\nThat hour will remove the worst candidates from your shortlist for free.\n\nWhat it will not do is tell you how a near-match in a related class would actually be assessed. That is the part worth handing over.",
+   "cta": "Comment SEARCH and we'll send you the checklist."
+  }
+ ]
+}

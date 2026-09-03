@@ -1,0 +1,28 @@
+.env
+.env.*
+!.env.example
+*.pyc
+__pycache__/
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+data/logs/
+data/.new_token
+
+# content_history.db IS committed on purpose: it is the system's memory. Without
+# it, duplicate prevention and pillar balancing reset on every Actions run.
+data/*.db-journal
+data/*.db-wal
+data/*.db-shm
+
+# Only the final branded JPEGs are committed (Instagram fetches them by URL).
+# The raw Gemini backgrounds and any PNG intermediates are not.
+assets/generated/**/_work/
+assets/generated/**/*.png
+assets/generated/_*.jpg
+.DS_Store
+*.egg-info/
+dist/
+build/

@@ -1,0 +1,173 @@
+{
+ "pillar": "monitoring_and_enforcement",
+ "items": [
+  {
+   "id": "mon_registration_not_enough",
+   "topic": "Why a registration does not stop copycats by itself",
+   "objective": "education",
+   "hook": "A registration gives you the right to act. It does not act for you.",
+   "visual_concept": "A still, unlit watchtower form on a wide dark plane, one teal light active",
+   "key_points": [
+    "Nobody polices the market on your behalf",
+    "The register does not alert you when a similar mark is filed",
+    "Rights can weaken if infringement goes unaddressed for long enough",
+    "Monitoring is what turns a certificate into protection"
+   ],
+   "template_plan": [
+    "VS01_statement",
+    "VS02_split",
+    "VS05_checklist",
+    "VS09_cta_close"
+   ],
+   "caption_body": "The certificate arrives and it feels like the job is done. It is closer to being handed a key.\n\nA registration gives you a strong basis to act. It does not create anyone whose job is to watch for you. No one is scanning new applications for marks that edge into your space, and no one is checking the marketplaces for sellers using your name.\n\nThat only happens if someone is looking.\n\nAnd letting infringement run unchallenged for long enough can weaken the position you would otherwise have.\n\nThe registration is the right. Monitoring is the exercise of it.",
+   "cta": "Follow @sharptrademarks for plain-English brand protection."
+  },
+  {
+   "id": "mon_what_watching_finds",
+   "topic": "What trademark monitoring actually watches",
+   "objective": "education",
+   "hook": "The applications worth knowing about are filed before you would ever notice them.",
+   "visual_concept": "Concentric detection rings expanding across a deep navy field, faint teal returns",
+   "key_points": [
+    "New applications for similar marks in related classes",
+    "Marks that sound or look like yours, not only exact matches",
+    "Marketplace and domain use by parties who never filed",
+    "Early notice matters because opposition windows are short"
+   ],
+   "template_plan": [
+    "VS01_statement",
+    "VS05_checklist",
+    "VS03_numbered_steps",
+    "VS09_cta_close"
+   ],
+   "caption_body": "Monitoring is not a search you run once. It is a standing watch on a moving register.\n\nWhat it looks for: new applications for marks similar to yours in related classes. Not only exact matches — sound-alikes, look-alikes, and marks sharing your dominant element. Use in marketplaces and domains by parties who never filed anything at all.\n\nThe reason it matters is timing. Opposition windows are short. By the time a competing brand is visible enough to notice organically, the easiest moment to object has usually passed.",
+   "cta": "Ask us what monitoring covers — DM open."
+  },
+  {
+   "id": "mon_first_steps",
+   "topic": "What to do first when you find someone using your name",
+   "objective": "education",
+   "hook": "Before you send anything, document everything.",
+   "visual_concept": "An archival flat-file drawer partially open, cool light on the edge of the papers",
+   "key_points": [
+    "Capture dated evidence of the other party's use",
+    "Establish what your own priority position actually is",
+    "Consider whether the goods and services are genuinely related",
+    "Responses range from a note to a formal proceeding"
+   ],
+   "template_plan": [
+    "VS01_statement",
+    "VS03_numbered_steps",
+    "VS05_checklist",
+    "VS09_cta_close"
+   ],
+   "caption_body": "The instinct is to send an angry message. Resist it for one afternoon.\n\nFirst, document. Dated screenshots, listing pages, packaging, whatever exists. Evidence disappears when people notice they have been noticed.\n\nSecond, be clear about your own position: when your rights began, what your registration actually covers, whether their goods and services are genuinely related to yours.\n\nThen decide the response. Sometimes it is a short professional note and the matter closes. Sometimes it is a platform complaint. Sometimes it is a formal proceeding.\n\nAll three go better from a documented position than an emotional one.",
+   "cta": "Found someone using your name? DM us."
+  },
+  {
+   "id": "mon_marketplace",
+   "topic": "Protecting a brand on marketplaces",
+   "objective": "education",
+   "hook": "Marketplaces have their own brand systems. Most of them want a registration.",
+   "visual_concept": "A grid of identical matte packages, one carrying a teal seal",
+   "key_points": [
+    "Major marketplaces run brand protection programmes",
+    "Enrolment commonly requires a registered trademark",
+    "Enrolment can unlock enforcement tools and listing controls",
+    "Sellers often discover this only after a hijacked listing"
+   ],
+   "template_plan": [
+    "VS01_statement",
+    "VS02_split",
+    "VS05_checklist",
+    "VS09_cta_close"
+   ],
+   "caption_body": "If you sell on marketplaces, a registration is not only a legal asset. It is an operational one.\n\nThe major platforms run brand protection programmes, and enrolment commonly requires a registered trademark. What that unlocks varies, but it typically includes better control over your listings and faster routes to act against counterfeits and hijackers.\n\nMost sellers learn this at the worst possible moment — when a listing has already been taken over and they are trying to get it back without the credentials the platform is asking for.\n\nThe registration is what gets you in the door.",
+   "cta": "Selling on marketplaces? DM us."
+  },
+  {
+   "id": "mon_deadlines",
+   "topic": "The deadlines that quietly end a registration",
+   "objective": "prevent_mistake",
+   "hook": "Most registrations that die are not challenged. They are forgotten.",
+   "visual_concept": "A calendar grid abstracted into matte tiles, a single one darkened",
+   "key_points": [
+    "Maintenance filings fall due at set intervals after registration",
+    "Missing a window can cancel the registration",
+    "Reminders sent to an old email address are a common failure point",
+    "Keeping ownership and contact details current is part of the job"
+   ],
+   "template_plan": [
+    "VS01_statement",
+    "VS10_timeline",
+    "VS05_checklist",
+    "VS09_cta_close"
+   ],
+   "caption_body": "Registrations rarely end in a dramatic dispute. They end because nobody diarised a date.\n\nMaintenance filings fall due at set intervals. Miss the window and the registration can be cancelled — no opponent, no argument, just a lapse.\n\nThe most common cause is banal: the reminder went to an email address nobody has used since the company changed accountants. Or the owner's details on the record were never updated after a restructure.\n\nKeep the contact details current. Put the dates somewhere that outlives the person who filed.",
+   "cta": "Save this the day your certificate arrives."
+  },
+  {
+   "id": "mon_similar_filing",
+   "topic": "What to do when someone files something close to your mark",
+   "objective": "education",
+   "hook": "There is a window to object. It closes whether or not you noticed it.",
+   "visual_concept": "A narrowing aperture of teal light closing across a dark field",
+   "key_points": [
+    "Published applications can be opposed within a limited period",
+    "Missing the window does not end all options but narrows them",
+    "Assessing genuine relatedness comes before any action",
+    "Not every similar filing warrants a response"
+   ],
+   "template_plan": [
+    "VS01_statement",
+    "VS10_timeline",
+    "VS08_question_answer",
+    "VS09_cta_close"
+   ],
+   "caption_body": "When a similar mark publishes, a clock starts. There is a defined period in which it can be opposed, and it runs whether or not anyone on your side is watching.\n\nMissing it does not leave you without options, but the remaining ones are generally slower and more involved than an opposition would have been.\n\nThe first question is not how to object. It is whether you should. Similar-looking filings in genuinely unrelated categories often coexist perfectly well, and objecting to everything is neither cheap nor effective.\n\nAssess relatedness first. Then act inside the window.",
+   "cta": "Ask us what monitoring covers — DM open."
+  },
+  {
+   "id": "mon_evidence_file",
+   "topic": "Keeping an evidence file for your brand",
+   "objective": "education",
+   "hook": "The strongest thing you can own, after the registration, is a dated record.",
+   "visual_concept": "Layered archival sheets in cool grey, edges catching a single soft key light",
+   "key_points": [
+    "Records of first use support your priority position",
+    "Dated packaging, invoices, listings and advertising all count",
+    "Evidence is far easier to collect as you go than to reconstruct",
+    "A simple folder maintained over time is enough"
+   ],
+   "template_plan": [
+    "VS01_statement",
+    "VS05_checklist",
+    "VS02_split",
+    "VS09_cta_close"
+   ],
+   "caption_body": "Trademark questions are frequently questions about dates. Who used it first. Since when. In what form. For what goods.\n\nWhich means the least glamorous asset in brand protection is a folder.\n\nDated packaging photographs. Early invoices. Screenshots of listings and advertising. The first version of the site. Anything that shows the mark in commercial use, with a date attached.\n\nCollected as you go, it takes minutes a quarter. Reconstructed three years later during a dispute, it is painful and incomplete.\n\nStart the folder now.",
+   "cta": "Save this and start the folder today."
+  },
+  {
+   "id": "mon_growth_trigger",
+   "topic": "Moments that should trigger a brand protection review",
+   "objective": "education",
+   "hook": "Certain business milestones are also brand protection deadlines.",
+   "visual_concept": "A series of ascending matte steps, each catching progressively more teal light",
+   "key_points": [
+    "Launching a new product line or sub-brand",
+    "Expanding into a new geographic market",
+    "Raising investment or preparing for due diligence",
+    "Signing a distribution, licensing or franchise agreement"
+   ],
+   "template_plan": [
+    "VS01_statement",
+    "VS05_checklist",
+    "VS10_timeline",
+    "VS09_cta_close"
+   ],
+   "caption_body": "Brand protection is usually treated as a one-off. It is closer to a maintenance schedule with business triggers.\n\nLaunching a sub-brand or a new product line. Expanding into a market you did not cover before. Raising money, where the diligence process will ask what the company actually owns. Signing a distribution, licensing or franchise agreement, where the value of the deal rests on the mark.\n\nEach of those changes what needs protecting or where.\n\nIf any of them is on your roadmap this year, the review belongs before the milestone, not after it.",
+   "cta": "Growing this year? DM us for a review."
+  }
+ ]
+}

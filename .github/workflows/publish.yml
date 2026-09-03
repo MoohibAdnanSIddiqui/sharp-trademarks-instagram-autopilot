@@ -1,0 +1,76 @@
+name: Publish
+
+# Runs hourly and does nothing unless a configured post time is due. This is
+# deliberate: a fixed UTC cron would drift by an hour twice a year when the
+# audience timezone changes for daylight saving. `run.py due` reads the local
+# time from settings.yaml, so the schedule stays correct year round.
+on:
+  schedule:
+    - cron: "5 * * * *"
+  workflow_dispatch:
+    inputs:
+      slot:
+        description: "Slot to publish (blank = whichever is due)"
+        required: false
+      dry_run:
+        description: "Dry run"
+        type: boolean
+        default: true
+
+concurrency:
+  group: instagram-publish        # never two publishers at once
+  cancel-in-progress: false
+
+permissions:
+  contents: write                 # commit rendered assets + content history
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: ./.github/actions/setup
+
+      - name: Publish the due slot
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          META_APP_ID: ${{ secrets.META_APP_ID }}
+          META_APP_SECRET: ${{ secrets.META_APP_SECRET }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          # Flip these two to false/true in repository Variables to go live.
+          DRY_RUN: ${{ inputs.dry_run != '' && inputs.dry_run || vars.DRY_RUN || 'true' }}
+          AUTO_PUBLISH: ${{ vars.AUTO_PUBLISH || 'false' }}
+          CI: "true"
+        run: |
+          if [ -n "${{ inputs.slot }}" ]; then
+            python run.py publish --slot "${{ inputs.slot }}"
+          else
+            python run.py due
+          fi
+
+      - name: Commit rendered assets and content history
+        run: |
+          git config user.name  "sharp-autopilot"
+          git config user.email "autopilot@users.noreply.github.com"
+          git add assets/generated data/content_history.db data/content_calendar.json \
+                  data/pillar_mix_override.json 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "nothing to commit"
+          else
+            git commit -m "chore(autopilot): state after publish run [skip ci]"
+            git pull --rebase --autostash origin ${{ github.ref_name }} || true
+            git push
+          fi
+
+      - name: Upload logs on failure
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: autopilot-logs-${{ github.run_id }}
+          path: data/logs/
+          retention-days: 14
