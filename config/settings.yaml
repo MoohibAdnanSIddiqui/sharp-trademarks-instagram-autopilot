@@ -99,7 +99,7 @@ media_host:
   provider: "github_raw"
   github:
     # Public repo that serves generated JPEGs to Instagram's fetcher.
-    repo: "REPLACE_ME/sharp-trademarks-instagram-autopilot"
+    repo: "MoohibAdnanSIddiqui/sharp-trademarks-instagram-autopilot"
     branch: "main"
     path: "assets/generated"
 
