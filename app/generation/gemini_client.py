@@ -165,7 +165,7 @@ class GeminiImageClient:
         oi = getattr(result, "output_image", None)
         if oi is not None:
             data = getattr(oi, "data", None) or getattr(oi, "image_bytes", None)
-            if isinstance(data, (bytes, bytearray)):
+            if isinstance(data, bytes | bytearray):
                 return bytes(data)
             if isinstance(data, str):
                 return base64.b64decode(data)
@@ -176,7 +176,7 @@ class GeminiImageClient:
                 inline = getattr(part, "inline_data", None) or getattr(part, "inlineData", None)
                 if inline is not None:
                     data = getattr(inline, "data", None)
-                    if isinstance(data, (bytes, bytearray)):
+                    if isinstance(data, bytes | bytearray):
                         return bytes(data)
                     if isinstance(data, str):
                         return base64.b64decode(data)
@@ -192,9 +192,9 @@ class GeminiImageClient:
 
         for attr in ("output", "outputs", "images"):
             seq = getattr(result, attr, None) or []
-            for item in seq if isinstance(seq, (list, tuple)) else []:
+            for item in seq if isinstance(seq, list | tuple) else []:
                 data = getattr(item, "data", None) or getattr(item, "image_bytes", None)
-                if isinstance(data, (bytes, bytearray)):
+                if isinstance(data, bytes | bytearray):
                     return bytes(data)
                 if isinstance(data, str):
                     return base64.b64decode(data)
