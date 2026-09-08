@@ -157,6 +157,10 @@ class Secrets:
         )
 
     def missing_for(self, capability: str) -> list[str]:
+        if capability == "refresh_token" and self.ig_api_host == "graph.instagram.com":
+            # Instagram Login refreshes the token against itself; no app
+            # credentials are involved, so requiring them would be wrong.
+            return [] if self.ig_access_token else ["IG_ACCESS_TOKEN"]
         needs = {
             "generate": [("GEMINI_API_KEY", self.gemini_api_key)],
             "publish": [
