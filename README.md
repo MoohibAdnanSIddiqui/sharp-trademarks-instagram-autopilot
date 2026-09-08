@@ -103,8 +103,8 @@ Create one at [aistudio.google.com/apikey](https://aistudio.google.com/apikey).
 | `GEMINI_API_KEY` | Google AI Studio key |
 | `IG_USER_ID` | numeric Instagram professional account ID |
 | `IG_ACCESS_TOKEN` | long-lived access token |
-| `META_APP_ID` | Meta app ID (for token refresh) |
-| `META_APP_SECRET` | Meta app secret (for token refresh) |
+| `META_APP_ID` | Meta app ID — **only needed on the Facebook Login path** |
+| `META_APP_SECRET` | Meta app secret — **only needed on the Facebook Login path** |
 | `GH_PAT` | *optional* — fine-grained PAT with **Secrets: read and write**, so the token refresh can write itself back |
 
 *…→ Variables:*
@@ -113,7 +113,11 @@ Create one at [aistudio.google.com/apikey](https://aistudio.google.com/apikey).
 |---|---|---|
 | `DRY_RUN` | `true` | `false` |
 | `AUTO_PUBLISH` | `false` | `true` |
-| `IG_API_HOST` | `graph.facebook.com` | or `graph.instagram.com` |
+| `IG_API_HOST` | set to match your login path | `graph.instagram.com` for Instagram Login, `graph.facebook.com` for Facebook Login |
+
+This deployment uses **Instagram Login**, so `IG_API_HOST` is
+`graph.instagram.com` and the token refreshes against itself — `META_APP_ID`
+and `META_APP_SECRET` are not required.
 
 ### 5. Point the media host at your repo
 
