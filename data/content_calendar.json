@@ -78,5 +78,25 @@
       "publish_time": "2026-09-07T21:00:00-04:00",
       "status": "planned"
     }
+  ],
+  "2026-09-08": [
+    {
+      "content_id": "20260908-0-f4ab8958",
+      "slot": 0,
+      "pillar": "trademark_education",
+      "format": "single_image",
+      "topic": "What makes a name registrable in the first place",
+      "publish_time": "2026-09-08T09:00:00-04:00",
+      "status": "planned"
+    },
+    {
+      "content_id": "20260908-1-2a23488b",
+      "slot": 1,
+      "pillar": "trust_and_service",
+      "format": "single_image",
+      "topic": "What to have ready before you start a filing",
+      "publish_time": "2026-09-08T21:00:00-04:00",
+      "status": "planned"
+    }
   ]
 }
