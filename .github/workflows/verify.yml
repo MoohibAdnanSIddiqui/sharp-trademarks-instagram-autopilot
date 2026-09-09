@@ -1,0 +1,56 @@
+name: Verify connection
+
+# Read-only health check: confirms IG_USER_ID, IG_ACCESS_TOKEN and IG_API_HOST
+# actually work together against the live Instagram API. Publishes nothing.
+# Run it from the Actions tab whenever credentials change.
+
+on:
+  workflow_dispatch:
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check the account is reachable
+        env:
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          IG_API_HOST: ${{ vars.IG_API_HOST || 'graph.facebook.com' }}
+        run: |
+          python - <<'PY'
+          import json, os, urllib.parse, urllib.request
+
+          host = os.environ["IG_API_HOST"]
+          uid = os.environ.get("IG_USER_ID", "")
+          tok = os.environ.get("IG_ACCESS_TOKEN", "")
+
+          missing = [n for n, v in (("IG_USER_ID", uid), ("IG_ACCESS_TOKEN", tok)) if not v]
+          if missing:
+              raise SystemExit("missing secrets: " + ", ".join(missing))
+
+          print(f"host          {host}")
+          print(f"user id       {uid}")
+          print(f"token length  {len(tok)} chars (value never printed)")
+
+          fields = "id,username,account_type,media_count"
+          url = f"https://{host}/v23.0/{uid}?" + urllib.parse.urlencode(
+              {"fields": fields, "access_token": tok}
+          )
+          try:
+              with urllib.request.urlopen(url, timeout=45) as r:
+                  data = json.load(r)
+          except urllib.error.HTTPError as e:
+              body = e.read().decode("utf-8", "replace")
+              # Never echo the query string; it carries the token.
+              raise SystemExit(f"API returned HTTP {e.code}: {body}")
+
+          print()
+          print("CONNECTED")
+          for k in ("id", "username", "account_type", "media_count"):
+              if k in data:
+                  print(f"  {k:13} {data[k]}")
+          if data.get("id") != uid:
+              raise SystemExit("id mismatch: token belongs to a different account")
+          PY
