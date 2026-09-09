@@ -178,5 +178,25 @@
       "publish_time": "2026-09-12T19:15:00+05:00",
       "status": "planned"
     }
+  ],
+  "2026-09-13": [
+    {
+      "content_id": "20260913-0-19e62357",
+      "slot": 0,
+      "pillar": "myths_vs_facts",
+      "format": "single_image",
+      "topic": "Whether changing a letter avoids a conflict",
+      "publish_time": "2026-09-13T06:50:00+05:00",
+      "status": "planned"
+    },
+    {
+      "content_id": "20260913-1-6f6861ff",
+      "slot": 1,
+      "pillar": "faq_and_objections",
+      "format": "single_image",
+      "topic": "Whether you need a separate filing for each product",
+      "publish_time": "2026-09-13T19:15:00+05:00",
+      "status": "planned"
+    }
   ]
 }
