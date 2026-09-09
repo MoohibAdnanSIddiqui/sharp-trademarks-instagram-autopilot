@@ -16,6 +16,10 @@ on:
         description: "Dry run"
         type: boolean
         default: true
+      auto_publish:
+        description: "Actually send to Instagram (needs Dry run unchecked)"
+        type: boolean
+        default: false
 
 concurrency:
   group: instagram-publish        # never two publishers at once
@@ -44,8 +48,8 @@ jobs:
           META_APP_SECRET: ${{ secrets.META_APP_SECRET }}
           GITHUB_REPOSITORY: ${{ github.repository }}
           # Flip these two to false/true in repository Variables to go live.
-          DRY_RUN: ${{ inputs.dry_run != '' && inputs.dry_run || vars.DRY_RUN || 'true' }}
-          AUTO_PUBLISH: ${{ vars.AUTO_PUBLISH || 'false' }}
+          DRY_RUN: ${{ github.event_name == 'workflow_dispatch' && (inputs.dry_run && 'true' || 'false') || vars.DRY_RUN || 'true' }}
+          AUTO_PUBLISH: ${{ github.event_name == 'workflow_dispatch' && (inputs.auto_publish && 'true' || 'false') || vars.AUTO_PUBLISH || 'false' }}
           CI: "true"
         run: |
           if [ -n "${{ inputs.slot }}" ]; then
