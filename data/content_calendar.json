@@ -138,5 +138,25 @@
       "publish_time": "2026-09-10T19:15:00+05:00",
       "status": "planned"
     }
+  ],
+  "2026-09-11": [
+    {
+      "content_id": "20260911-0-bd1efff8",
+      "slot": 0,
+      "pillar": "trademark_education",
+      "format": "single_image",
+      "topic": "The rights a business has before it registers anything",
+      "publish_time": "2026-09-11T06:50:00+05:00",
+      "status": "planned"
+    },
+    {
+      "content_id": "20260911-1-1c8bf846",
+      "slot": 1,
+      "pillar": "naming_and_branding",
+      "format": "single_image",
+      "topic": "What to check before committing to a rebrand",
+      "publish_time": "2026-09-11T19:15:00+05:00",
+      "status": "planned"
+    }
   ]
 }
