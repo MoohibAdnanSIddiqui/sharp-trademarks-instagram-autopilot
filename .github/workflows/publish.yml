@@ -12,6 +12,9 @@ on:
       slot:
         description: "Slot to publish (blank = whichever is due)"
         required: false
+      date:
+        description: "Date to publish for, YYYY-MM-DD (blank = today)"
+        required: false
       dry_run:
         description: "Dry run"
         type: boolean
@@ -53,7 +56,7 @@ jobs:
           CI: "true"
         run: |
           if [ -n "${{ inputs.slot }}" ]; then
-            python run.py publish --slot "${{ inputs.slot }}"
+            python run.py publish --slot "${{ inputs.slot }}" --date "${{ inputs.date }}"
           else
             python run.py due
           fi
