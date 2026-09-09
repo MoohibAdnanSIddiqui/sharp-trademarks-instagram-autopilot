@@ -34,9 +34,9 @@ publishing:
   dry_run: true
   max_generation_attempts: 3
   # Hard ceiling below Instagram's 100/24h so a bug can never spam the feed.
-  max_posts_per_24h: 4
+  max_posts_per_24h: 10
   # Refuse to publish if the last successful publish was under this many minutes ago.
-  min_minutes_between_posts: 240
+  min_minutes_between_posts: 0
 
 content:
   # Share of posts per pillar over a rolling 30-day window. Must sum to 1.0.
