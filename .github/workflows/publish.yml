@@ -6,7 +6,7 @@ name: Publish
 # time from settings.yaml, so the schedule stays correct year round.
 on:
   schedule:
-    - cron: "50 * * * *"
+    - cron: "15 * * * *"
   workflow_dispatch:
     inputs:
       slot:
