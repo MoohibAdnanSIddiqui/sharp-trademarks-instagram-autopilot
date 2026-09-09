@@ -20,10 +20,10 @@ brand:
   legal_positioning: "hybrid"
 
 schedule:
-  timezone: "America/New_York"      # audience timezone, not the operator's
+  timezone: "Asia/Karachi"      # audience timezone, not the operator's
   posts_per_day: 2
   post_interval_hours: 12
-  post_times: ["09:00", "21:00"]    # authoritative if set; else derived from interval
+  post_times: ["06:50", "18:50"]    # authoritative if set; else derived from interval
   # Planning runs early so a failure still leaves hours of repair time.
   plan_time: "05:30"
   # Skip publishing on these dates (YYYY-MM-DD) — e.g. US federal holidays.
