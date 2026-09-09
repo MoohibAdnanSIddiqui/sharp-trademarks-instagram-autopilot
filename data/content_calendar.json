@@ -158,5 +158,25 @@
       "publish_time": "2026-09-11T19:15:00+05:00",
       "status": "planned"
     }
+  ],
+  "2026-09-12": [
+    {
+      "content_id": "20260912-0-85fc23c1",
+      "slot": 0,
+      "pillar": "search_and_clearance",
+      "format": "single_image",
+      "topic": "Looking for businesses that never registered anything",
+      "publish_time": "2026-09-12T06:50:00+05:00",
+      "status": "planned"
+    },
+    {
+      "content_id": "20260912-1-6d1c3a7d",
+      "slot": 1,
+      "pillar": "monitoring_and_enforcement",
+      "format": "single_image",
+      "topic": "Moments that should trigger a brand protection review",
+      "publish_time": "2026-09-12T19:15:00+05:00",
+      "status": "planned"
+    }
   ]
 }
