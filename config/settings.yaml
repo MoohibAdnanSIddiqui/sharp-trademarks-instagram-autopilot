@@ -23,7 +23,7 @@ schedule:
   timezone: "Asia/Karachi"      # audience timezone, not the operator's
   posts_per_day: 2
   post_interval_hours: 12
-  post_times: ["06:50", "18:50"]    # authoritative if set; else derived from interval
+  post_times: ["06:50", "19:15"]    # authoritative if set; else derived from interval
   # Planning runs early so a failure still leaves hours of repair time.
   plan_time: "05:30"
   # Skip publishing on these dates (YYYY-MM-DD) — e.g. US federal holidays.
