@@ -98,5 +98,25 @@
       "publish_time": "2026-09-08T21:00:00-04:00",
       "status": "planned"
     }
+  ],
+  "2026-09-09": [
+    {
+      "content_id": "20260909-0-41957193",
+      "slot": 0,
+      "pillar": "costly_mistakes",
+      "format": "single_image",
+      "topic": "Submitting a specimen that does not show real use",
+      "publish_time": "2026-09-09T09:00:00-04:00",
+      "status": "planned"
+    },
+    {
+      "content_id": "20260909-1-1c034bdc",
+      "slot": 1,
+      "pillar": "myths_vs_facts",
+      "format": "single_image",
+      "topic": "Whether a US trademark protects you worldwide",
+      "publish_time": "2026-09-09T21:00:00-04:00",
+      "status": "planned"
+    }
   ]
 }
