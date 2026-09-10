@@ -4,7 +4,7 @@ name: Plan
 # time rather than a missed slot.
 on:
   schedule:
-    - cron: "30 9 * * *"          # 05:30 America/New_York in summer, 04:30 in winter
+    - cron: "30 0 * * *"          # 00:30 UTC = 05:30 Asia/Karachi, ahead of the 06:50 slot
   workflow_dispatch:
     inputs:
       date:
