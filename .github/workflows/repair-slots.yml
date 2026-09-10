@@ -20,4 +20,4 @@ jobs:
       - run: git config user.name sharp-autopilot
       - run: git config user.email autopilot@users.noreply.github.com
       - run: git add -A data
-      - run: git diff --cached --quiet || (git commit -m "chore(history): re-date the five posts that published early on 9 Sep" && git push)
+      - run: git diff --cached --quiet || (git commit -m "chore(history) re-date five posts that published early on 9 Sep" && git push)
