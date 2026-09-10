@@ -1,0 +1,23 @@
+name: Repair slots
+
+# One-shot manual job. The five posts below were published early on 9 Sep during a
+# manual catch-up burst, but were recorded against 11-14 Sep, which left those
+# mornings claimed and unpostable. This re-dates them to the day they actually
+# went out and clears the stale plans so those days schedule normally again.
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  repair:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python -c 'import sqlite3;c=sqlite3.connect("data/content_history.db");m=[("2026-09-11",2),("2026-09-12",3),("2026-09-13",4),("2026-09-14",5)];[(c.execute("UPDATE posts SET date=?,slot=? WHERE date=? AND slot=? AND status=?",("2026-09-09",s,d,0,"published")),c.execute("UPDATE publish_claims SET date=?,slot=? WHERE date=? AND slot=?",("2026-09-09",s,d,0)),c.execute("DELETE FROM posts WHERE date=? AND status<>?",(d,"published"))) for d,s in m];c.commit();print("repaired")'
+      - run: git config user.name sharp-autopilot
+      - run: git config user.email autopilot@users.noreply.github.com
+      - run: git add -A data
+      - run: git diff --cached --quiet || (git commit -m "chore(history): re-date the five posts that published early on 9 Sep" && git push)
