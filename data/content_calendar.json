@@ -121,20 +121,20 @@
   ],
   "2026-09-10": [
     {
-      "content_id": "20260910-0-7583de7c",
+      "content_id": "20260910-0-76eb33c2",
       "slot": 0,
-      "pillar": "trademark_education",
-      "format": "single_image",
-      "topic": "The rights a business has before it registers anything",
+      "pillar": "uspto_process",
+      "format": "carousel",
+      "topic": "How to track your application yourself",
       "publish_time": "2026-09-10T06:50:00+05:00",
       "status": "planned"
     },
     {
-      "content_id": "20260910-1-0eb5d59d",
+      "content_id": "20260910-1-9c0a82f9",
       "slot": 1,
-      "pillar": "uspto_process",
+      "pillar": "trademark_education",
       "format": "single_image",
-      "topic": "What an Office Action is and what to do with one",
+      "topic": "TM versus the registered symbol and when each may be used",
       "publish_time": "2026-09-10T19:15:00+05:00",
       "status": "planned"
     }
