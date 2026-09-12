@@ -161,20 +161,20 @@
   ],
   "2026-09-12": [
     {
-      "content_id": "20260912-0-85fc23c1",
+      "content_id": "20260912-0-be79dc93",
       "slot": 0,
-      "pillar": "search_and_clearance",
+      "pillar": "monitoring_and_enforcement",
       "format": "single_image",
-      "topic": "Looking for businesses that never registered anything",
+      "topic": "Moments that should trigger a brand protection review",
       "publish_time": "2026-09-12T06:50:00+05:00",
       "status": "planned"
     },
     {
-      "content_id": "20260912-1-6d1c3a7d",
+      "content_id": "20260912-1-d0a28856",
       "slot": 1,
-      "pillar": "monitoring_and_enforcement",
+      "pillar": "faq_and_objections",
       "format": "single_image",
-      "topic": "Moments that should trigger a brand protection review",
+      "topic": "Whether you need a separate filing for each product",
       "publish_time": "2026-09-12T19:15:00+05:00",
       "status": "planned"
     }
