@@ -181,20 +181,20 @@
   ],
   "2026-09-13": [
     {
-      "content_id": "20260913-0-19e62357",
+      "content_id": "20260913-0-783d4b95",
       "slot": 0,
-      "pillar": "myths_vs_facts",
+      "pillar": "naming_and_branding",
       "format": "single_image",
-      "topic": "Whether changing a letter avoids a conflict",
+      "topic": "Naming for the business you are becoming",
       "publish_time": "2026-09-13T06:50:00+05:00",
       "status": "planned"
     },
     {
-      "content_id": "20260913-1-6f6861ff",
+      "content_id": "20260913-1-71b405cb",
       "slot": 1,
-      "pillar": "faq_and_objections",
-      "format": "single_image",
-      "topic": "Whether you need a separate filing for each product",
+      "pillar": "costly_mistakes",
+      "format": "carousel",
+      "topic": "Assuming a state business registration protects the brand",
       "publish_time": "2026-09-13T19:15:00+05:00",
       "status": "planned"
     }
