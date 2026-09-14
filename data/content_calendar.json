@@ -201,20 +201,20 @@
   ],
   "2026-09-14": [
     {
-      "content_id": "20260914-0-bf84617f",
+      "content_id": "20260914-0-9c726896",
       "slot": 0,
-      "pillar": "trust_and_service",
+      "pillar": "trademark_education",
       "format": "single_image",
-      "topic": "What 500 filings teaches you about applications",
+      "topic": "Whether to file the word, the logo, or both",
       "publish_time": "2026-09-14T06:50:00+05:00",
       "status": "planned"
     },
     {
-      "content_id": "20260914-1-bee753bd",
+      "content_id": "20260914-1-d97480ea",
       "slot": 1,
-      "pillar": "costly_mistakes",
-      "format": "carousel",
-      "topic": "Waiting until the brand is established to file",
+      "pillar": "monitoring_and_enforcement",
+      "format": "single_image",
+      "topic": "What trademark monitoring actually watches",
       "publish_time": "2026-09-14T19:15:00+05:00",
       "status": "planned"
     }
