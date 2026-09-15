@@ -218,5 +218,25 @@
       "publish_time": "2026-09-14T19:15:00+05:00",
       "status": "planned"
     }
+  ],
+  "2026-09-15": [
+    {
+      "content_id": "20260915-0-7c549492",
+      "slot": 0,
+      "pillar": "trademark_education",
+      "format": "carousel",
+      "topic": "Why one trademark filing may not cover your whole business",
+      "publish_time": "2026-09-15T06:50:00+05:00",
+      "status": "planned"
+    },
+    {
+      "content_id": "20260915-1-c5854e86",
+      "slot": 1,
+      "pillar": "costly_mistakes",
+      "format": "single_image",
+      "topic": "Filing in the wrong owner's name",
+      "publish_time": "2026-09-15T19:15:00+05:00",
+      "status": "planned"
+    }
   ]
 }
