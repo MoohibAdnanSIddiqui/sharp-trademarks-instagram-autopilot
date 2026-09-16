@@ -238,5 +238,25 @@
       "publish_time": "2026-09-15T19:15:00+05:00",
       "status": "planned"
     }
+  ],
+  "2026-09-16": [
+    {
+      "content_id": "20260916-0-02930ba9",
+      "slot": 0,
+      "pillar": "uspto_process",
+      "format": "single_image",
+      "topic": "What publication and opposition mean for your mark",
+      "publish_time": "2026-09-16T06:50:00+05:00",
+      "status": "planned"
+    },
+    {
+      "content_id": "20260916-1-a553f56b",
+      "slot": 1,
+      "pillar": "naming_and_branding",
+      "format": "single_image",
+      "topic": "Why an available handle is not an available name",
+      "publish_time": "2026-09-16T19:15:00+05:00",
+      "status": "planned"
+    }
   ]
 }
