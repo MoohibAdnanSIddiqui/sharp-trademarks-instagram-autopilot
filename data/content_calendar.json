@@ -258,5 +258,25 @@
       "publish_time": "2026-09-16T19:15:00+05:00",
       "status": "planned"
     }
+  ],
+  "2026-09-17": [
+    {
+      "content_id": "20260917-0-a5791e62",
+      "slot": 0,
+      "pillar": "faq_and_objections",
+      "format": "carousel",
+      "topic": "How long the whole process takes",
+      "publish_time": "2026-09-17T06:50:00+05:00",
+      "status": "planned"
+    },
+    {
+      "content_id": "20260917-1-098ae7fd",
+      "slot": 1,
+      "pillar": "costly_mistakes",
+      "format": "single_image",
+      "topic": "Describing your goods and services badly",
+      "publish_time": "2026-09-17T19:15:00+05:00",
+      "status": "planned"
+    }
   ]
 }
