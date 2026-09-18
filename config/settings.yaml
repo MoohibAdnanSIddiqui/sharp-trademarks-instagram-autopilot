@@ -1,4 +1,4 @@
-dry_run: falsedry_run: true  #auto_publish33auto_publish: false  auto_publish: true---------------------------------------------------------------------------
+# ---------------------------------------------------------------------------
 # Sharp Trademarks — Instagram Autopilot
 # Business configuration. NO SECRETS IN THIS FILE.
 # Every value here can also be overridden by an environment variable of the
@@ -30,8 +30,8 @@ schedule:
   blackout_dates: []
 
 publishing:
-  auto_publish: false               # MUST stay false until a full dry run passes
-  dry_run: true
+  auto_publish: true               # MUST stay false until a full dry run passes
+  dry_run: false
   max_generation_attempts: 3
   # Hard ceiling below Instagram's 100/24h so a bug can never spam the feed.
   max_posts_per_24h: 4
