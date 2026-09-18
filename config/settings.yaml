@@ -1,4 +1,4 @@
-# ---------------------------------------------------------------------------
+dry_run: falsedry_run: true  #auto_publish33auto_publish: false  auto_publish: true---------------------------------------------------------------------------
 # Sharp Trademarks — Instagram Autopilot
 # Business configuration. NO SECRETS IN THIS FILE.
 # Every value here can also be overridden by an environment variable of the
