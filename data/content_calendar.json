@@ -298,5 +298,25 @@
       "publish_time": "2026-09-18T19:15:00+05:00",
       "status": "planned"
     }
+  ],
+  "2026-09-19": [
+    {
+      "content_id": "20260919-0-ac72beef",
+      "slot": 0,
+      "pillar": "search_and_clearance",
+      "format": "single_image",
+      "topic": "How sound-alike names create conflicts",
+      "publish_time": "2026-09-19T06:50:00+05:00",
+      "status": "planned"
+    },
+    {
+      "content_id": "20260919-1-3be627f3",
+      "slot": 1,
+      "pillar": "myths_vs_facts",
+      "format": "single_image",
+      "topic": "Whether filing first automatically wins",
+      "publish_time": "2026-09-19T19:15:00+05:00",
+      "status": "planned"
+    }
   ]
 }
