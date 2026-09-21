@@ -338,5 +338,25 @@
       "publish_time": "2026-09-20T19:15:00+05:00",
       "status": "planned"
     }
+  ],
+  "2026-09-21": [
+    {
+      "content_id": "20260921-0-be459651",
+      "slot": 0,
+      "pillar": "naming_and_branding",
+      "format": "carousel",
+      "topic": "Using your own surname as a brand",
+      "publish_time": "2026-09-21T06:50:00+05:00",
+      "status": "planned"
+    },
+    {
+      "content_id": "20260921-1-06049278",
+      "slot": 1,
+      "pillar": "costly_mistakes",
+      "format": "single_image",
+      "topic": "Naming too close to an established competitor",
+      "publish_time": "2026-09-21T19:15:00+05:00",
+      "status": "planned"
+    }
   ]
 }
