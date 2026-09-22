@@ -358,5 +358,25 @@
       "publish_time": "2026-09-21T19:15:00+05:00",
       "status": "planned"
     }
+  ],
+  "2026-09-22": [
+    {
+      "content_id": "20260922-0-a3496152",
+      "slot": 0,
+      "pillar": "search_and_clearance",
+      "format": "single_image",
+      "topic": "What a quick knockout search cannot tell you",
+      "publish_time": "2026-09-22T06:50:00+05:00",
+      "status": "planned"
+    },
+    {
+      "content_id": "20260922-1-2f7696df",
+      "slot": 1,
+      "pillar": "trust_and_service",
+      "format": "single_image",
+      "topic": "How the Sharp Trademarks filing process works",
+      "publish_time": "2026-09-22T19:15:00+05:00",
+      "status": "planned"
+    }
   ]
 }
