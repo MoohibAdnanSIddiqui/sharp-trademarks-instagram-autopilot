@@ -378,5 +378,25 @@
       "publish_time": "2026-09-22T19:15:00+05:00",
       "status": "planned"
     }
+  ],
+  "2026-09-23": [
+    {
+      "content_id": "20260923-0-b6f423a0",
+      "slot": 0,
+      "pillar": "faq_and_objections",
+      "format": "single_image",
+      "topic": "Whether an online-only business needs a trademark",
+      "publish_time": "2026-09-23T06:50:00+05:00",
+      "status": "planned"
+    },
+    {
+      "content_id": "20260923-1-7873b970",
+      "slot": 1,
+      "pillar": "uspto_process",
+      "format": "single_image",
+      "topic": "The most common grounds for refusal",
+      "publish_time": "2026-09-23T19:15:00+05:00",
+      "status": "planned"
+    }
   ]
 }
