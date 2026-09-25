@@ -418,5 +418,25 @@
       "publish_time": "2026-09-24T19:15:00+05:00",
       "status": "planned"
     }
+  ],
+  "2026-09-25": [
+    {
+      "content_id": "20260925-0-8de7ca6f",
+      "slot": 0,
+      "pillar": "search_and_clearance",
+      "format": "single_image",
+      "topic": "Why conflicts appear in categories you did not file in",
+      "publish_time": "2026-09-25T06:50:00+05:00",
+      "status": "planned"
+    },
+    {
+      "content_id": "20260925-1-c6f864b3",
+      "slot": 1,
+      "pillar": "monitoring_and_enforcement",
+      "format": "single_image",
+      "topic": "Protecting a brand on marketplaces",
+      "publish_time": "2026-09-25T19:15:00+05:00",
+      "status": "planned"
+    }
   ]
 }
