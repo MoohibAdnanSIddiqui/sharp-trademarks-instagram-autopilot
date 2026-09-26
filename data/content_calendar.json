@@ -438,5 +438,25 @@
       "publish_time": "2026-09-25T19:15:00+05:00",
       "status": "planned"
     }
+  ],
+  "2026-09-26": [
+    {
+      "content_id": "20260926-0-c86cf312",
+      "slot": 0,
+      "pillar": "uspto_process",
+      "format": "carousel",
+      "topic": "Filing before you have started selling",
+      "publish_time": "2026-09-26T06:50:00+05:00",
+      "status": "planned"
+    },
+    {
+      "content_id": "20260926-1-d5515e10",
+      "slot": 1,
+      "pillar": "costly_mistakes",
+      "format": "carousel",
+      "topic": "Letting an Office Action deadline pass",
+      "publish_time": "2026-09-26T19:15:00+05:00",
+      "status": "planned"
+    }
   ]
 }
