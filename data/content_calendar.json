@@ -458,5 +458,25 @@
       "publish_time": "2026-09-26T19:15:00+05:00",
       "status": "planned"
     }
+  ],
+  "2026-09-27": [
+    {
+      "content_id": "20260927-0-63e3d17b",
+      "slot": 0,
+      "pillar": "search_and_clearance",
+      "format": "carousel",
+      "topic": "The right moment to run a clearance search",
+      "publish_time": "2026-09-27T06:50:00+05:00",
+      "status": "planned"
+    },
+    {
+      "content_id": "20260927-1-258803e6",
+      "slot": 1,
+      "pillar": "monitoring_and_enforcement",
+      "format": "single_image",
+      "topic": "Why a registration does not stop copycats by itself",
+      "publish_time": "2026-09-27T19:15:00+05:00",
+      "status": "planned"
+    }
   ]
 }
