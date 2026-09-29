@@ -501,20 +501,20 @@
   ],
   "2026-09-29": [
     {
-      "content_id": "20260929-0-b1b2f711",
+      "content_id": "20260929-0-ac3a2a43",
       "slot": 0,
-      "pillar": "uspto_process",
+      "pillar": "myths_vs_facts",
       "format": "single_image",
-      "topic": "What you have to do after registration to keep it",
+      "topic": "How long trademark registration actually takes",
       "publish_time": "2026-09-29T06:50:00+05:00",
       "status": "planned"
     },
     {
-      "content_id": "20260929-1-ad44d9e5",
+      "content_id": "20260929-1-78c60d3c",
       "slot": 1,
-      "pillar": "myths_vs_facts",
+      "pillar": "trust_and_service",
       "format": "single_image",
-      "topic": "Whether copyright covers your brand name and logo",
+      "topic": "What a pre-filing risk review covers",
       "publish_time": "2026-09-29T19:15:00+05:00",
       "status": "planned"
     }
