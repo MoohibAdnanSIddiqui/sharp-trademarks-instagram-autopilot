@@ -558,5 +558,25 @@
       "publish_time": "2026-10-01T19:15:00+05:00",
       "status": "planned"
     }
+  ],
+  "2026-10-02": [
+    {
+      "content_id": "20261002-0-e1880f6c",
+      "slot": 0,
+      "pillar": "myths_vs_facts",
+      "format": "carousel",
+      "topic": "Whether forming an LLC protects your business name",
+      "publish_time": "2026-10-02T06:50:00+05:00",
+      "status": "planned"
+    },
+    {
+      "content_id": "20261002-1-ffe3b573",
+      "slot": 1,
+      "pillar": "trust_and_service",
+      "format": "single_image",
+      "topic": "Why nobody can promise a registration",
+      "publish_time": "2026-10-02T19:15:00+05:00",
+      "status": "planned"
+    }
   ]
 }
