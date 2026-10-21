@@ -598,5 +598,25 @@
       "publish_time": "2026-10-03T19:15:00+05:00",
       "status": "planned"
     }
+  ],
+  "2026-10-21": [
+    {
+      "content_id": "20261021-0-1f49f0df",
+      "slot": 0,
+      "pillar": "trademark_education",
+      "format": "single_image",
+      "topic": "What a trademark actually protects",
+      "publish_time": "2026-10-21T06:50:00+05:00",
+      "status": "planned"
+    },
+    {
+      "content_id": "20261021-1-e856a239",
+      "slot": 1,
+      "pillar": "costly_mistakes",
+      "format": "carousel",
+      "topic": "Filing before running a proper search",
+      "publish_time": "2026-10-21T19:15:00+05:00",
+      "status": "planned"
+    }
   ]
 }
