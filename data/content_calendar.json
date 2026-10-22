@@ -618,5 +618,25 @@
       "publish_time": "2026-10-21T19:15:00+05:00",
       "status": "planned"
     }
+  ],
+  "2026-10-22": [
+    {
+      "content_id": "20261022-0-ea6718c6",
+      "slot": 0,
+      "pillar": "search_and_clearance",
+      "format": "single_image",
+      "topic": "Clearing several names at once instead of one",
+      "publish_time": "2026-10-22T06:50:00+05:00",
+      "status": "planned"
+    },
+    {
+      "content_id": "20261022-1-cc38a4e0",
+      "slot": 1,
+      "pillar": "naming_and_branding",
+      "format": "single_image",
+      "topic": "When a slogan is worth protecting",
+      "publish_time": "2026-10-22T19:15:00+05:00",
+      "status": "planned"
+    }
   ]
 }
