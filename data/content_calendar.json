@@ -638,5 +638,25 @@
       "publish_time": "2026-10-22T19:15:00+05:00",
       "status": "planned"
     }
+  ],
+  "2026-10-23": [
+    {
+      "content_id": "20261023-0-7adadf05",
+      "slot": 0,
+      "pillar": "myths_vs_facts",
+      "format": "carousel",
+      "topic": "Whether you can use the registered symbol straight away",
+      "publish_time": "2026-10-23T06:50:00+05:00",
+      "status": "planned"
+    },
+    {
+      "content_id": "20261023-1-d4c6ddc6",
+      "slot": 1,
+      "pillar": "naming_and_branding",
+      "format": "single_image",
+      "topic": "Whether to protect the company name or the product name",
+      "publish_time": "2026-10-23T19:15:00+05:00",
+      "status": "planned"
+    }
   ]
 }
