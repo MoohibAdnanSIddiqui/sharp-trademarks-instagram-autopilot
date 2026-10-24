@@ -658,5 +658,25 @@
       "publish_time": "2026-10-23T19:15:00+05:00",
       "status": "planned"
     }
+  ],
+  "2026-10-24": [
+    {
+      "content_id": "20261024-0-b3324b58",
+      "slot": 0,
+      "pillar": "trademark_education",
+      "format": "single_image",
+      "topic": "What makes a name registrable in the first place",
+      "publish_time": "2026-10-24T06:50:00+05:00",
+      "status": "planned"
+    },
+    {
+      "content_id": "20261024-1-89e641a7",
+      "slot": 1,
+      "pillar": "monitoring_and_enforcement",
+      "format": "single_image",
+      "topic": "What to do when someone files something close to your mark",
+      "publish_time": "2026-10-24T19:15:00+05:00",
+      "status": "planned"
+    }
   ]
 }
