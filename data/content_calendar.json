@@ -678,5 +678,25 @@
       "publish_time": "2026-10-24T19:15:00+05:00",
       "status": "planned"
     }
+  ],
+  "2026-10-25": [
+    {
+      "content_id": "20261025-0-e7a7f91a",
+      "slot": 0,
+      "pillar": "trademark_education",
+      "format": "single_image",
+      "topic": "The rights a business has before it registers anything",
+      "publish_time": "2026-10-25T06:50:00+05:00",
+      "status": "planned"
+    },
+    {
+      "content_id": "20261025-1-bb4a0812",
+      "slot": 1,
+      "pillar": "costly_mistakes",
+      "format": "single_image",
+      "topic": "Submitting a specimen that does not show real use",
+      "publish_time": "2026-10-25T19:15:00+05:00",
+      "status": "planned"
+    }
   ]
 }
