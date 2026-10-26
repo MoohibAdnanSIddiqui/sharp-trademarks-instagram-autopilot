@@ -698,5 +698,25 @@
       "publish_time": "2026-10-25T19:15:00+05:00",
       "status": "planned"
     }
+  ],
+  "2026-10-26": [
+    {
+      "content_id": "20261026-0-f3421e18",
+      "slot": 0,
+      "pillar": "trademark_education",
+      "format": "single_image",
+      "topic": "TM versus the registered symbol and when each may be used",
+      "publish_time": "2026-10-26T06:50:00+05:00",
+      "status": "planned"
+    },
+    {
+      "content_id": "20261026-1-7bd57832",
+      "slot": 1,
+      "pillar": "search_and_clearance",
+      "format": "single_image",
+      "topic": "Looking for businesses that never registered anything",
+      "publish_time": "2026-10-26T19:15:00+05:00",
+      "status": "planned"
+    }
   ]
 }
