@@ -738,5 +738,25 @@
       "publish_time": "2026-10-27T19:15:00+05:00",
       "status": "planned"
     }
+  ],
+  "2026-10-28": [
+    {
+      "content_id": "20261028-0-e6241c2f",
+      "slot": 0,
+      "pillar": "monitoring_and_enforcement",
+      "format": "single_image",
+      "topic": "Moments that should trigger a brand protection review",
+      "publish_time": "2026-10-28T06:50:00+05:00",
+      "status": "planned"
+    },
+    {
+      "content_id": "20261028-1-9c73ae89",
+      "slot": 1,
+      "pillar": "uspto_process",
+      "format": "carousel",
+      "topic": "How to track your application yourself",
+      "publish_time": "2026-10-28T19:15:00+05:00",
+      "status": "planned"
+    }
   ]
 }
