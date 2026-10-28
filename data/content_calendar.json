@@ -741,20 +741,20 @@
   ],
   "2026-10-28": [
     {
-      "content_id": "20261028-0-e6241c2f",
+      "content_id": "20261028-0-6954969f",
       "slot": 0,
-      "pillar": "monitoring_and_enforcement",
+      "pillar": "myths_vs_facts",
       "format": "single_image",
-      "topic": "Moments that should trigger a brand protection review",
+      "topic": "Whether changing a letter avoids a conflict",
       "publish_time": "2026-10-28T06:50:00+05:00",
       "status": "planned"
     },
     {
-      "content_id": "20261028-1-9c73ae89",
+      "content_id": "20261028-1-4d3c4968",
       "slot": 1,
-      "pillar": "uspto_process",
-      "format": "carousel",
-      "topic": "How to track your application yourself",
+      "pillar": "faq_and_objections",
+      "format": "single_image",
+      "topic": "Whether you need a separate filing for each product",
       "publish_time": "2026-10-28T19:15:00+05:00",
       "status": "planned"
     }
