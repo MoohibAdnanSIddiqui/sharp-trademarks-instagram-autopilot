@@ -758,5 +758,25 @@
       "publish_time": "2026-10-28T19:15:00+05:00",
       "status": "planned"
     }
+  ],
+  "2026-10-29": [
+    {
+      "content_id": "20261029-0-c42084f1",
+      "slot": 0,
+      "pillar": "costly_mistakes",
+      "format": "carousel",
+      "topic": "Assuming a state business registration protects the brand",
+      "publish_time": "2026-10-29T06:50:00+05:00",
+      "status": "planned"
+    },
+    {
+      "content_id": "20261029-1-40fa4ea5",
+      "slot": 1,
+      "pillar": "faq_and_objections",
+      "format": "single_image",
+      "topic": "Whether it is too late to file for a name you have used for years",
+      "publish_time": "2026-10-29T19:15:00+05:00",
+      "status": "planned"
+    }
   ]
 }
