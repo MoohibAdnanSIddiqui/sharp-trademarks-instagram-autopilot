@@ -878,5 +878,25 @@
       "publish_time": "2026-11-03T19:15:00+05:00",
       "status": "planned"
     }
+  ],
+  "2026-11-04": [
+    {
+      "content_id": "20261104-0-0320ed39",
+      "slot": 0,
+      "pillar": "myths_vs_facts",
+      "format": "carousel",
+      "topic": "Whether filing first automatically wins",
+      "publish_time": "2026-11-04T06:50:00+05:00",
+      "status": "planned"
+    },
+    {
+      "content_id": "20261104-1-080fd2f3",
+      "slot": 1,
+      "pillar": "naming_and_branding",
+      "format": "single_image",
+      "topic": "What to check before committing to a rebrand",
+      "publish_time": "2026-11-04T19:15:00+05:00",
+      "status": "planned"
+    }
   ]
 }
