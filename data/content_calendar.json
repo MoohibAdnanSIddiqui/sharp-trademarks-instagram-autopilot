@@ -918,5 +918,25 @@
       "publish_time": "2026-11-05T19:15:00+05:00",
       "status": "planned"
     }
+  ],
+  "2026-11-07": [
+    {
+      "content_id": "20261107-0-7f9381f1",
+      "slot": 0,
+      "pillar": "trust_and_service",
+      "format": "single_image",
+      "topic": "How the Sharp Trademarks filing process works",
+      "publish_time": "2026-11-07T06:50:00+05:00",
+      "status": "planned"
+    },
+    {
+      "content_id": "20261107-1-d239a12b",
+      "slot": 1,
+      "pillar": "uspto_process",
+      "format": "single_image",
+      "topic": "What the examining attorney is actually looking for",
+      "publish_time": "2026-11-07T19:15:00+05:00",
+      "status": "planned"
+    }
   ]
 }
