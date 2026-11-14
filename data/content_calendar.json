@@ -978,5 +978,25 @@
       "publish_time": "2026-11-11T19:15:00+05:00",
       "status": "planned"
     }
+  ],
+  "2026-11-14": [
+    {
+      "content_id": "20261114-0-62f88f76",
+      "slot": 0,
+      "pillar": "myths_vs_facts",
+      "format": "carousel",
+      "topic": "How long trademark registration actually takes",
+      "publish_time": "2026-11-14T06:50:00+05:00",
+      "status": "planned"
+    },
+    {
+      "content_id": "20261114-1-c808def2",
+      "slot": 1,
+      "pillar": "trust_and_service",
+      "format": "single_image",
+      "topic": "What a pre-filing risk review covers",
+      "publish_time": "2026-11-14T19:15:00+05:00",
+      "status": "planned"
+    }
   ]
 }
