@@ -1021,20 +1021,20 @@
   ],
   "2026-11-16": [
     {
-      "content_id": "20261116-0-297c99a3",
+      "content_id": "20261116-0-44592d6f",
       "slot": 0,
-      "pillar": "myths_vs_facts",
-      "format": "single_image",
-      "topic": "Whether an unused name is free to take",
+      "pillar": "costly_mistakes",
+      "format": "carousel",
+      "topic": "Letting an Office Action deadline pass",
       "publish_time": "2026-11-16T06:50:00+05:00",
       "status": "planned"
     },
     {
-      "content_id": "20261116-1-9f056cac",
+      "content_id": "20261116-1-f171cbce",
       "slot": 1,
-      "pillar": "trust_and_service",
-      "format": "single_image",
-      "topic": "The businesses we work with most",
+      "pillar": "search_and_clearance",
+      "format": "carousel",
+      "topic": "How to read a search result that is not a clean yes",
       "publish_time": "2026-11-16T19:15:00+05:00",
       "status": "planned"
     }
