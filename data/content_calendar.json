@@ -1058,5 +1058,25 @@
       "publish_time": "2026-11-17T19:15:00+05:00",
       "status": "planned"
     }
+  ],
+  "2026-11-18": [
+    {
+      "content_id": "20261118-0-02255685",
+      "slot": 0,
+      "pillar": "trust_and_service",
+      "format": "single_image",
+      "topic": "Why nobody can promise a registration",
+      "publish_time": "2026-11-18T06:50:00+05:00",
+      "status": "planned"
+    },
+    {
+      "content_id": "20261118-1-bc08c9bf",
+      "slot": 1,
+      "pillar": "search_and_clearance",
+      "format": "single_image",
+      "topic": "What a quick knockout search cannot tell you",
+      "publish_time": "2026-11-18T19:15:00+05:00",
+      "status": "planned"
+    }
   ]
 }
