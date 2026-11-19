@@ -1078,5 +1078,25 @@
       "publish_time": "2026-11-18T19:15:00+05:00",
       "status": "planned"
     }
+  ],
+  "2026-11-19": [
+    {
+      "content_id": "20261119-0-d786758a",
+      "slot": 0,
+      "pillar": "uspto_process",
+      "format": "single_image",
+      "topic": "What you have to do after registration to keep it",
+      "publish_time": "2026-11-19T06:50:00+05:00",
+      "status": "planned"
+    },
+    {
+      "content_id": "20261119-1-03124909",
+      "slot": 1,
+      "pillar": "search_and_clearance",
+      "format": "carousel",
+      "topic": "What you can check yourself before asking for help",
+      "publish_time": "2026-11-19T19:15:00+05:00",
+      "status": "planned"
+    }
   ]
 }
